@@ -1,4 +1,5 @@
-image: google-cloud-python-generator:latest
+# image: google-cloud-python-generator:latest
+image: gcr.io/chingor-test/librarian-e2e:latest
 libraries:
 - apis:
   - path: google/cloud/language/v1beta2
