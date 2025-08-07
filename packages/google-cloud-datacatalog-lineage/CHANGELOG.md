@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.15](https://github.com/chingor13/google-cloud-python/compare/google-cloud-datacatalog-lineage-v0.3.14...google-cloud-datacatalog-lineage-v0.3.15) (2025-08-07)
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([feb5353](https://github.com/chingor13/google-cloud-python/commit/feb53532240bb70a94b359b519f0f41f95875a33))
+
+
+### Documentation
+
+* Update import statement example in README ([3d5bc37](https://github.com/chingor13/google-cloud-python/commit/3d5bc3782da6b37742ae83802de8a8b6db96fe29))
+
 ## [0.3.14](https://github.com/googleapis/google-cloud-python/compare/google-cloud-datacatalog-lineage-v0.3.13...google-cloud-datacatalog-lineage-v0.3.14) (2025-06-11)
 
 

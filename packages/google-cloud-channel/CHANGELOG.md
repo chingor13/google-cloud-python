@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.24.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-channel-v1.23.0...google-cloud-channel-v1.24.0) (2025-08-07)
+
+
+### Features
+
+* A new enum `CustomerAttestationState` is added ([92713ab](https://github.com/chingor13/google-cloud-python/commit/92713ab86a4dbbd7112176f7985b5fd3e82d1ca9))
+* A new field `customer_attestation_state` is added to message `.google.cloud.channel.v1.Customer` ([92713ab](https://github.com/chingor13/google-cloud-python/commit/92713ab86a4dbbd7112176f7985b5fd3e82d1ca9))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([1e43e75](https://github.com/chingor13/google-cloud-python/commit/1e43e75e99445373785b11381e0e859fa14bb485))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* Update import statement example in README ([8697120](https://github.com/chingor13/google-cloud-python/commit/869712032803cb31d93f3b16abc2abdb14f733a4))
+
 ## [1.23.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-channel-v1.22.2...google-cloud-channel-v1.23.0) (2025-06-19)
 
 

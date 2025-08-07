@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.3.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-commerce-consumer-procurement-v0.2.0...google-cloud-commerce-consumer-procurement-v0.3.0) (2025-08-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* [google-cloud-commerce-consumer-procurement] An existing google.api.http annotation `http_uri` is changed for method `UpdateLicensePool` in service `LicenseManagementService` ([#13940](https://github.com/chingor13/google-cloud-python/issues/13940))
+
+### Bug Fixes
+
+* [google-cloud-commerce-consumer-procurement] An existing google.api.http annotation `http_uri` is changed for method `UpdateLicensePool` in service `LicenseManagementService` ([#13940](https://github.com/chingor13/google-cloud-python/issues/13940)) ([3e9594a](https://github.com/chingor13/google-cloud-python/commit/3e9594a149b33dd101cdd5712362681165924b76))
+* [Many APIs] Allow Protobuf 6.x ([1e43e75](https://github.com/chingor13/google-cloud-python/commit/1e43e75e99445373785b11381e0e859fa14bb485))
+
+
+### Documentation
+
+* Update import statement example in README ([8697120](https://github.com/chingor13/google-cloud-python/commit/869712032803cb31d93f3b16abc2abdb14f733a4))
+
 ## [0.2.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-commerce-consumer-procurement-v0.1.13...google-cloud-commerce-consumer-procurement-v0.2.0) (2025-05-26)
 
 
