@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.1.11](https://github.com/chingor13/google-cloud-python/compare/google-cloud-apphub-v0.1.10...google-cloud-apphub-v0.1.11) (2025-08-07)
+
+
+### Features
+
+* add enum `Type.GLOBAL` ([5293282](https://github.com/chingor13/google-cloud-python/commit/5293282236161407d435a51afd08d28bc032415d))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([3a85796](https://github.com/chingor13/google-cloud-python/commit/3a85796774ebf728cbc9e82dc536316530ac78c1))
+
+
+### Documentation
+
+* misc comment updates, formatting ([5293282](https://github.com/chingor13/google-cloud-python/commit/5293282236161407d435a51afd08d28bc032415d))
+* Update import statement example in README ([eea9e6f](https://github.com/chingor13/google-cloud-python/commit/eea9e6f798406fec17a17dfd71e40fbeea42cf6a))
+
 ## [0.1.10](https://github.com/googleapis/google-cloud-python/compare/google-cloud-apphub-v0.1.9...google-cloud-apphub-v0.1.10) (2025-06-11)
 
 
