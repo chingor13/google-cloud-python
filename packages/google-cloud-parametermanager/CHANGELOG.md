@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.1.6](https://github.com/chingor13/google-cloud-python/compare/google-cloud-parametermanager-v0.1.5...google-cloud-parametermanager-v0.1.6) (2025-08-07)
+
+
+### Features
+
+* [google-cloud-parametermanager] add CMEK support ([#13696](https://github.com/chingor13/google-cloud-python/issues/13696)) ([5618268](https://github.com/chingor13/google-cloud-python/commit/56182685892633bbe062b6f9819a73961bf24b20))
+* KMS key resource_definition `[cloudkms.googleapis.com/CryptoKey](https://www.google.com/url?sa=D&q=http%3A%2F%2Fcloudkms.googleapis.com%2FCryptoKey) is added ([d113d5b](https://github.com/chingor13/google-cloud-python/commit/d113d5b2d5e5a13143a55104cc0178df43ba0d5a))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([7295cbb](https://github.com/chingor13/google-cloud-python/commit/7295cbb7c3122eeff1042c3c543bfc9b8b3ca913))
+
+
+### Documentation
+
+* Update import statement example in README ([dfc2cd6](https://github.com/chingor13/google-cloud-python/commit/dfc2cd6be6422baa45dcebc5ff6e7fc846bf5c7d))
+
 ## [0.1.5](https://github.com/googleapis/google-cloud-python/compare/google-cloud-parametermanager-v0.1.4...google-cloud-parametermanager-v0.1.5) (2025-06-23)
 
 

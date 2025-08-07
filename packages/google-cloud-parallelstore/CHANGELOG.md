@@ -1,5 +1,36 @@
 # Changelog
 
+## [0.2.16](https://github.com/chingor13/google-cloud-python/compare/google-cloud-parallelstore-v0.2.15...google-cloud-parallelstore-v0.2.16) (2025-08-07)
+
+
+### Features
+
+* A new field `bytes_failed` is added to message `v1beta.TransferCounters` ([a5d917d](https://github.com/chingor13/google-cloud-python/commit/a5d917d61904b609886a49e1a79911aa0084103b))
+* A new field `error_summary` is added to message `v1beta.TransferOperationMetadata` ([a5d917d](https://github.com/chingor13/google-cloud-python/commit/a5d917d61904b609886a49e1a79911aa0084103b))
+* A new field `metadata_options` is added to message `v1beta.ExportDataRequest` ([a5d917d](https://github.com/chingor13/google-cloud-python/commit/a5d917d61904b609886a49e1a79911aa0084103b))
+* A new field `metadata_options` is added to message `v1beta.ImportDataRequest` ([a5d917d](https://github.com/chingor13/google-cloud-python/commit/a5d917d61904b609886a49e1a79911aa0084103b))
+* A new field `objects_failed` is added to message `v1beta.TransferCounters` ([a5d917d](https://github.com/chingor13/google-cloud-python/commit/a5d917d61904b609886a49e1a79911aa0084103b))
+* A new message `TransferErrorLogEntry` is added ([a5d917d](https://github.com/chingor13/google-cloud-python/commit/a5d917d61904b609886a49e1a79911aa0084103b))
+* A new message `TransferErrorSummary` is added ([a5d917d](https://github.com/chingor13/google-cloud-python/commit/a5d917d61904b609886a49e1a79911aa0084103b))
+* A new message `TransferMetadataOptions` is added ([a5d917d](https://github.com/chingor13/google-cloud-python/commit/a5d917d61904b609886a49e1a79911aa0084103b))
+* A new value `REPAIRING` is added to enum `State` ([a5d917d](https://github.com/chingor13/google-cloud-python/commit/a5d917d61904b609886a49e1a79911aa0084103b))
+* Field `daos_version` in message `v1beta.Instance` is Deprecated ([a5d917d](https://github.com/chingor13/google-cloud-python/commit/a5d917d61904b609886a49e1a79911aa0084103b))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([7295cbb](https://github.com/chingor13/google-cloud-python/commit/7295cbb7c3122eeff1042c3c543bfc9b8b3ca913))
+
+
+### Documentation
+
+* A comment for field `bytes_failed` in message `.google.cloud.parallelstore.v1.TransferCounters` is changed ([aceb95a](https://github.com/chingor13/google-cloud-python/commit/aceb95a890b71e4af978bb2731f93cd8447d7a2f))
+* A comment for field `daos_version` in message `.google.cloud.parallelstore.v1.Instance` is changed ([aceb95a](https://github.com/chingor13/google-cloud-python/commit/aceb95a890b71e4af978bb2731f93cd8447d7a2f))
+* A comment for field `objects_failed` in message `.google.cloud.parallelstore.v1.TransferCounters` is changed ([aceb95a](https://github.com/chingor13/google-cloud-python/commit/aceb95a890b71e4af978bb2731f93cd8447d7a2f))
+* fields `directory_stripe_level` `deployment_type` `file_stripe_level` in message `v1beta.Instance` documented as immutable ([a5d917d](https://github.com/chingor13/google-cloud-python/commit/a5d917d61904b609886a49e1a79911aa0084103b))
+* fix various typos in commentary ([b68e488](https://github.com/chingor13/google-cloud-python/commit/b68e488b98aa196c1bab717f170913792b43261b))
+* Update import statement example in README ([dfc2cd6](https://github.com/chingor13/google-cloud-python/commit/dfc2cd6be6422baa45dcebc5ff6e7fc846bf5c7d))
+
 ## [0.2.15](https://github.com/googleapis/google-cloud-python/compare/google-cloud-parallelstore-v0.2.14...google-cloud-parallelstore-v0.2.15) (2025-06-03)
 
 
