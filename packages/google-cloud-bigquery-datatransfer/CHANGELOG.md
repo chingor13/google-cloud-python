@@ -4,6 +4,19 @@
 
 [1]: https://pypi.org/project/google-cloud-bigquery-datatransfer/#history
 
+## [3.19.3](https://github.com/chingor13/google-cloud-python/compare/google-cloud-bigquery-datatransfer-v3.19.2...google-cloud-bigquery-datatransfer-v3.19.3) (2025-08-07)
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([1e43e75](https://github.com/chingor13/google-cloud-python/commit/1e43e75e99445373785b11381e0e859fa14bb485))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* Update import statement example in README ([8697120](https://github.com/chingor13/google-cloud-python/commit/869712032803cb31d93f3b16abc2abdb14f733a4))
+
 ## [3.19.2](https://github.com/googleapis/google-cloud-python/compare/google-cloud-bigquery-datatransfer-v3.19.1...google-cloud-bigquery-datatransfer-v3.19.2) (2025-06-11)
 
 

@@ -4,6 +4,20 @@
 
 [1]: https://pypi.org/project/google-cloud-build/#history
 
+## [3.31.4](https://github.com/chingor13/google-cloud-python/compare/google-cloud-build-v3.31.3...google-cloud-build-v3.31.4) (2025-08-07)
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([1e43e75](https://github.com/chingor13/google-cloud-python/commit/1e43e75e99445373785b11381e0e859fa14bb485))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* [google-cloud-build] Updated Private Service Connect IP ranges when route_all_traffic is false ([#14149](https://github.com/chingor13/google-cloud-python/issues/14149)) ([7bbeba4](https://github.com/chingor13/google-cloud-python/commit/7bbeba477ed32257509f155c25d87631beaf4519))
+* Update import statement example in README ([8697120](https://github.com/chingor13/google-cloud-python/commit/869712032803cb31d93f3b16abc2abdb14f733a4))
+
 ## [3.31.3](https://github.com/googleapis/google-cloud-python/compare/google-cloud-build-v3.31.2...google-cloud-build-v3.31.3) (2025-07-26)
 
 
