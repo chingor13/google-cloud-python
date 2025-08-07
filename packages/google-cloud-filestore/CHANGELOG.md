@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.14.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-filestore-v1.13.2...google-cloud-filestore-v1.14.0) (2025-08-07)
+
+
+### Features
+
+* Added REGIONAL tier support in the v1 API ([675aaad](https://github.com/chingor13/google-cloud-python/commit/675aaad7f1736e1ffec8191935db48dd3e3570d5))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([e06ee32](https://github.com/chingor13/google-cloud-python/commit/e06ee325de4125cdfcaf040a77dc9ccc82843260))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* Update import statement example in README ([821bdb1](https://github.com/chingor13/google-cloud-python/commit/821bdb1d108c8e77a7a576557aa95d4b9c943e12))
+
 ## [1.13.2](https://github.com/googleapis/google-cloud-python/compare/google-cloud-filestore-v1.13.1...google-cloud-filestore-v1.13.2) (2025-06-11)
 
 

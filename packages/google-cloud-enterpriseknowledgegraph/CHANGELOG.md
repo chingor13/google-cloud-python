@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.18](https://github.com/chingor13/google-cloud-python/compare/google-cloud-enterpriseknowledgegraph-v0.3.17...google-cloud-enterpriseknowledgegraph-v0.3.18) (2025-08-07)
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([e06ee32](https://github.com/chingor13/google-cloud-python/commit/e06ee325de4125cdfcaf040a77dc9ccc82843260))
+
+
+### Documentation
+
+* Update import statement example in README ([821bdb1](https://github.com/chingor13/google-cloud-python/commit/821bdb1d108c8e77a7a576557aa95d4b9c943e12))
+
 ## [0.3.17](https://github.com/googleapis/google-cloud-python/compare/google-cloud-enterpriseknowledgegraph-v0.3.16...google-cloud-enterpriseknowledgegraph-v0.3.17) (2025-06-11)
 
 

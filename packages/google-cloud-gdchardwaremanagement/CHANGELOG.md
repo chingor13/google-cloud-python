@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.1.13](https://github.com/chingor13/google-cloud-python/compare/google-cloud-gdchardwaremanagement-v0.1.12...google-cloud-gdchardwaremanagement-v0.1.13) (2025-08-07)
+
+
+### Features
+
+* accept status updates in the SignalZoneState method ([a66badc](https://github.com/chingor13/google-cloud-python/commit/a66badc3fd01734c6e2c4192b92cc4a0b998e8f8))
+* add deployment type and installation dates to orders ([a66badc](https://github.com/chingor13/google-cloud-python/commit/a66badc3fd01734c6e2c4192b92cc4a0b998e8f8))
+* expose the allowed hardware count for each SKU ([a66badc](https://github.com/chingor13/google-cloud-python/commit/a66badc3fd01734c6e2c4192b92cc4a0b998e8f8))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([e06ee32](https://github.com/chingor13/google-cloud-python/commit/e06ee325de4125cdfcaf040a77dc9ccc82843260))
+
+
+### Documentation
+
+* make billing_id an output-only field ([a66badc](https://github.com/chingor13/google-cloud-python/commit/a66badc3fd01734c6e2c4192b92cc4a0b998e8f8))
+* Update import statement example in README ([821bdb1](https://github.com/chingor13/google-cloud-python/commit/821bdb1d108c8e77a7a576557aa95d4b9c943e12))
+
 ## [0.1.12](https://github.com/googleapis/google-cloud-python/compare/google-cloud-gdchardwaremanagement-v0.1.11...google-cloud-gdchardwaremanagement-v0.1.12) (2025-04-23)
 
 

@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.1.19](https://github.com/chingor13/google-cloud-python/compare/google-cloud-edgenetwork-v0.1.18...google-cloud-edgenetwork-v0.1.19) (2025-08-07)
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([e06ee32](https://github.com/chingor13/google-cloud-python/commit/e06ee325de4125cdfcaf040a77dc9ccc82843260))
+
+
+### Documentation
+
+* [google-cloud-edgenetwork] fix typos in comments ([#13756](https://github.com/chingor13/google-cloud-python/issues/13756)) ([e9fda4e](https://github.com/chingor13/google-cloud-python/commit/e9fda4e97ab7202421a604df9112b9fb14c5f352))
+* Update import statement example in README ([821bdb1](https://github.com/chingor13/google-cloud-python/commit/821bdb1d108c8e77a7a576557aa95d4b9c943e12))
+
 ## [0.1.18](https://github.com/googleapis/google-cloud-python/compare/google-cloud-edgenetwork-v0.1.17...google-cloud-edgenetwork-v0.1.18) (2025-06-11)
 
 

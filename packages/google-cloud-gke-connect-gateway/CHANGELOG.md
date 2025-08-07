@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.10.5](https://github.com/chingor13/google-cloud-python/compare/google-cloud-gke-connect-gateway-v0.10.4...google-cloud-gke-connect-gateway-v0.10.5) (2025-08-07)
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([e06ee32](https://github.com/chingor13/google-cloud-python/commit/e06ee325de4125cdfcaf040a77dc9ccc82843260))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* Update import statement example in README ([821bdb1](https://github.com/chingor13/google-cloud-python/commit/821bdb1d108c8e77a7a576557aa95d4b9c943e12))
+
 ## [0.10.4](https://github.com/googleapis/google-cloud-python/compare/google-cloud-gke-connect-gateway-v0.10.3...google-cloud-gke-connect-gateway-v0.10.4) (2025-06-11)
 
 
