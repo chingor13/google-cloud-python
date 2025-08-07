@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/chingor13/google-cloud-python/compare/google-cloud-managedkafka-schemaregistry-v0.1.0...google-cloud-managedkafka-schemaregistry-v0.1.1) (2025-08-07)
+
+
+### Features
+
+* add initial files for google.cloud.managedkafka.schemaregistry.v1 ([#14061](https://github.com/chingor13/google-cloud-python/issues/14061)) ([17a5e5f](https://github.com/chingor13/google-cloud-python/commit/17a5e5f7e8c3c4a79d37310ac8ffb30ad2bb407e))
+
 ## 0.1.0 (2025-07-23)
 
 
