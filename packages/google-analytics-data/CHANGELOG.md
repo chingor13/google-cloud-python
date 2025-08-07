@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.18.20](https://github.com/chingor13/google-cloud-python/compare/google-analytics-data-v0.18.19...google-analytics-data-v0.18.20) (2025-08-07)
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([a1b9294](https://github.com/chingor13/google-cloud-python/commit/a1b9294d0bf6e27c2a951d6df7faf7807dc5420b))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* Update import statement example in README ([1562bb7](https://github.com/chingor13/google-cloud-python/commit/1562bb740c7cd56179e52185dde3c32af861de5e))
+
 ## [0.18.19](https://github.com/googleapis/google-cloud-python/compare/google-analytics-data-v0.18.18...google-analytics-data-v0.18.19) (2025-06-11)
 
 

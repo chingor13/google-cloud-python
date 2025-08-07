@@ -1,5 +1,36 @@
 # Changelog
 
+## [0.1.11](https://github.com/chingor13/google-cloud-python/compare/google-cloud-alloydb-connectors-v0.1.10...google-cloud-alloydb-connectors-v0.1.11) (2025-08-07)
+
+
+### Features
+
+* Add new CSQL API for supporting Cluster creation from Cloud SQL ([673b3a2](https://github.com/chingor13/google-cloud-python/commit/673b3a2e7e11115cc728c5d2257146e1c38e43ff))
+* Add new fields to support observability configurations, machine types and PSC related configs ([673b3a2](https://github.com/chingor13/google-cloud-python/commit/673b3a2e7e11115cc728c5d2257146e1c38e43ff))
+* Add new methods for exporting, importing and upgrade Cluster operations ([673b3a2](https://github.com/chingor13/google-cloud-python/commit/673b3a2e7e11115cc728c5d2257146e1c38e43ff))
+* Sync AlloyDB API changes from HEAD to stable ([673b3a2](https://github.com/chingor13/google-cloud-python/commit/673b3a2e7e11115cc728c5d2257146e1c38e43ff))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([a1b9294](https://github.com/chingor13/google-cloud-python/commit/a1b9294d0bf6e27c2a951d6df7faf7807dc5420b))
+
+
+### Documentation
+
+* A comment for field `database_flags` in message `.google.cloud.alloydb.v1.Instance` is changed ([673b3a2](https://github.com/chingor13/google-cloud-python/commit/673b3a2e7e11115cc728c5d2257146e1c38e43ff))
+* A comment for field `encryption_config` in message `.google.cloud.alloydb.v1.AutomatedBackupPolicy` is changed ([673b3a2](https://github.com/chingor13/google-cloud-python/commit/673b3a2e7e11115cc728c5d2257146e1c38e43ff))
+* A comment for field `encryption_config` in message `.google.cloud.alloydb.v1.ContinuousBackupConfig` is changed ([673b3a2](https://github.com/chingor13/google-cloud-python/commit/673b3a2e7e11115cc728c5d2257146e1c38e43ff))
+* A comment for field `id` in message `.google.cloud.alloydb.v1.Instance` is changed ([673b3a2](https://github.com/chingor13/google-cloud-python/commit/673b3a2e7e11115cc728c5d2257146e1c38e43ff))
+* A comment for field `ip` in message `.google.cloud.alloydb.v1.Instance` is changed ([673b3a2](https://github.com/chingor13/google-cloud-python/commit/673b3a2e7e11115cc728c5d2257146e1c38e43ff))
+* A comment for field `requested_cancellation` in message `.google.cloud.alloydb.v1.OperationMetadata` is changed ([673b3a2](https://github.com/chingor13/google-cloud-python/commit/673b3a2e7e11115cc728c5d2257146e1c38e43ff))
+* A comment for field `state` in message `.google.cloud.alloydb.v1.Instance` is changed ([673b3a2](https://github.com/chingor13/google-cloud-python/commit/673b3a2e7e11115cc728c5d2257146e1c38e43ff))
+* A comment for field `use_metadata_exchange` in message `.google.cloud.alloydb.v1.GenerateClientCertificateRequest` is changed ([673b3a2](https://github.com/chingor13/google-cloud-python/commit/673b3a2e7e11115cc728c5d2257146e1c38e43ff))
+* A comment for field `user` in message `.google.cloud.alloydb.v1.ExecuteSqlRequest` is changed ([673b3a2](https://github.com/chingor13/google-cloud-python/commit/673b3a2e7e11115cc728c5d2257146e1c38e43ff))
+* A comment for field `zone_id` in message `.google.cloud.alloydb.v1.Instance` is changed ([673b3a2](https://github.com/chingor13/google-cloud-python/commit/673b3a2e7e11115cc728c5d2257146e1c38e43ff))
+* A comment for message `Instance` is changed ([673b3a2](https://github.com/chingor13/google-cloud-python/commit/673b3a2e7e11115cc728c5d2257146e1c38e43ff))
+* Update import statement example in README ([1562bb7](https://github.com/chingor13/google-cloud-python/commit/1562bb740c7cd56179e52185dde3c32af861de5e))
+
 ## [0.1.10](https://github.com/googleapis/google-cloud-python/compare/google-cloud-alloydb-connectors-v0.1.9...google-cloud-alloydb-connectors-v0.1.10) (2025-05-15)
 
 

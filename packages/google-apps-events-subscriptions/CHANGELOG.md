@@ -1,5 +1,28 @@
 # Changelog
 
+## [0.3.0](https://github.com/chingor13/google-cloud-python/compare/google-apps-events-subscriptions-v0.2.2...google-apps-events-subscriptions-v0.3.0) (2025-08-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* An existing oauth_scope https://www.googleapis.com/auth/chat.bot is removed from SubscriptionsService
+
+### Features
+
+* add google.apps.events_subscriptions_v1beta ([f4c0d3d](https://github.com/chingor13/google-cloud-python/commit/f4c0d3d60194735d7d07b67673099ef0431f8728))
+* Enable client libraries generation of v1beta for Workspace Events API ([fca56e3](https://github.com/chingor13/google-cloud-python/commit/fca56e31288650fb0645ed5d83110ea4fb97f4ba))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([a1b9294](https://github.com/chingor13/google-cloud-python/commit/a1b9294d0bf6e27c2a951d6df7faf7807dc5420b))
+* An existing oauth_scope https://www.googleapis.com/auth/chat.bot is removed from SubscriptionsService ([51d848a](https://github.com/chingor13/google-cloud-python/commit/51d848a096c6341c7f76701ee6895f313c25e4be))
+
+
+### Documentation
+
+* Update import statement example in README ([1562bb7](https://github.com/chingor13/google-cloud-python/commit/1562bb740c7cd56179e52185dde3c32af861de5e))
+
 ## [0.2.2](https://github.com/googleapis/google-cloud-python/compare/google-apps-events-subscriptions-v0.2.1...google-apps-events-subscriptions-v0.2.2) (2025-06-12)
 
 

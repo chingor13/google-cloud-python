@@ -1,5 +1,32 @@
 # Changelog
 
+## [0.2.8](https://github.com/chingor13/google-cloud-python/compare/google-apps-chat-v0.2.7...google-apps-chat-v0.2.8) (2025-08-07)
+
+
+### Features
+
+* A new method `customEmojis.create` is added ([1781daa](https://github.com/chingor13/google-cloud-python/commit/1781daa266a787f8e51575c121f247b1451806a9))
+* A new method `customEmojis.delete` is added ([1781daa](https://github.com/chingor13/google-cloud-python/commit/1781daa266a787f8e51575c121f247b1451806a9))
+* A new method `customEmojis.get` is added ([1781daa](https://github.com/chingor13/google-cloud-python/commit/1781daa266a787f8e51575c121f247b1451806a9))
+* A new method `customEmojis.list` is added ([1781daa](https://github.com/chingor13/google-cloud-python/commit/1781daa266a787f8e51575c121f247b1451806a9))
+* Addition of app auth support for chat api ([e9795e3](https://github.com/chingor13/google-cloud-python/commit/e9795e356339141f7087a982c08fe962b3f559da))
+* Addition of space notification setting Chat API ([4c3dbf2](https://github.com/chingor13/google-cloud-python/commit/4c3dbf253f5113a5565110dd33a0749fb40c8fb2))
+* Exposing 1p integration message content (drive, calendar, huddle, meet chips) ([b74ec0e](https://github.com/chingor13/google-cloud-python/commit/b74ec0ef9d46f96219dbdd9ff4937597a7486f28))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([a1b9294](https://github.com/chingor13/google-cloud-python/commit/a1b9294d0bf6e27c2a951d6df7faf7807dc5420b))
+
+
+### Documentation
+
+* A comment for field `filter` in message `.google.chat.v1.ListReactionsRequest` is changed ([1781daa](https://github.com/chingor13/google-cloud-python/commit/1781daa266a787f8e51575c121f247b1451806a9))
+* A comment for message `CustomEmoji` is changed ([1781daa](https://github.com/chingor13/google-cloud-python/commit/1781daa266a787f8e51575c121f247b1451806a9))
+* Update import statement example in README ([1562bb7](https://github.com/chingor13/google-cloud-python/commit/1562bb740c7cd56179e52185dde3c32af861de5e))
+* Update reference documentation for annotations. Introduce new richlink metadata types ([b74ec0e](https://github.com/chingor13/google-cloud-python/commit/b74ec0ef9d46f96219dbdd9ff4937597a7486f28))
+* Update reference documentation for createSpace,updateSpace,deleteSpace,createMembership,updateMembership,deleteMembership and the newly added field -customer- in space.proto ([e9795e3](https://github.com/chingor13/google-cloud-python/commit/e9795e356339141f7087a982c08fe962b3f559da))
+
 ## [0.2.7](https://github.com/googleapis/google-cloud-python/compare/google-apps-chat-v0.2.6...google-apps-chat-v0.2.7) (2025-07-23)
 
 

@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.3](https://github.com/chingor13/google-cloud-python/compare/google-cloud-access-context-manager-v0.2.2...google-cloud-access-context-manager-v0.2.3) (2025-08-07)
+
+
+### Bug Fixes
+
+* Allow protobuf 6.x ([b4d4551](https://github.com/chingor13/google-cloud-python/commit/b4d45514e4ab630334a54eb4201576062ecc1958))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+* resolve issue where pre-release versions of dependencies are installed ([b4d4551](https://github.com/chingor13/google-cloud-python/commit/b4d45514e4ab630334a54eb4201576062ecc1958))
+
 ## [0.2.2](https://github.com/googleapis/google-cloud-python/compare/google-cloud-access-context-manager-v0.2.1...google-cloud-access-context-manager-v0.2.2) (2025-03-15)
 
 
