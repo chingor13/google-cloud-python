@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.15.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-org-policy-v1.14.0...google-cloud-org-policy-v1.15.0) (2025-08-07)
+
+
+### Features
+
+* Add managed constraints new fields (e.g. parameter) ([#13801](https://github.com/chingor13/google-cloud-python/issues/13801)) ([ba8fd2e](https://github.com/chingor13/google-cloud-python/commit/ba8fd2e21566c0beef174e7f180a58d3ae9e7973))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([7295cbb](https://github.com/chingor13/google-cloud-python/commit/7295cbb7c3122eeff1042c3c543bfc9b8b3ca913))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* Update import statement example in README ([dfc2cd6](https://github.com/chingor13/google-cloud-python/commit/dfc2cd6be6422baa45dcebc5ff6e7fc846bf5c7d))
+* updated comments ([ba8fd2e](https://github.com/chingor13/google-cloud-python/commit/ba8fd2e21566c0beef174e7f180a58d3ae9e7973))
+
 ## [1.14.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-org-policy-v1.13.1...google-cloud-org-policy-v1.14.0) (2025-04-17)
 
 

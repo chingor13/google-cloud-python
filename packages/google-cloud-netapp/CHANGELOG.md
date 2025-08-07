@@ -1,5 +1,28 @@
 # Changelog
 
+## [0.3.24](https://github.com/chingor13/google-cloud-python/compare/google-cloud-netapp-v0.3.23...google-cloud-netapp-v0.3.24) (2025-08-07)
+
+
+### Features
+
+* [google-cloud-netapp] A new message `google.cloud.netapp.v1.BackupRetentionPolicy` is added in `google.cloud.netapp.v1.BackupVault` ([1423ec9](https://github.com/chingor13/google-cloud-python/commit/1423ec9bacb0f81f7e46929a6b82ecb5f20d24eb))
+* A new field `enforced_retention_end_time` in message `google.cloud.netapp.v1.Backup` is added ([1423ec9](https://github.com/chingor13/google-cloud-python/commit/1423ec9bacb0f81f7e46929a6b82ecb5f20d24eb))
+* add `source_region`, `backup_region`, `source_backup_vault`, `destination_backup_vault`, `backup_vault_type` to `BackupVault` message ([baa765a](https://github.com/chingor13/google-cloud-python/commit/baa765afd28c859df2e4003fd449d70ff7f424b1))
+* add `volume_region` and `backup_region` to backup `Backup` message ([baa765a](https://github.com/chingor13/google-cloud-python/commit/baa765afd28c859df2e4003fd449d70ff7f424b1))
+* New fields `custom_performance_enabled`, `total_throughput_mibps`, `total_iops` in message `google.cloud.netapp.v1.StoragePool` are added ([1423ec9](https://github.com/chingor13/google-cloud-python/commit/1423ec9bacb0f81f7e46929a6b82ecb5f20d24eb))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([c8bbf32](https://github.com/chingor13/google-cloud-python/commit/c8bbf32606e790b559b261bf96700c76b6e2bfce))
+
+
+### Documentation
+
+* [google-cloud-netapp] A comment for field `cooling_threshold_days` in message `.google.cloud.netapp.v1.TieringPolicy` is changed ([#13795](https://github.com/chingor13/google-cloud-python/issues/13795)) ([5035014](https://github.com/chingor13/google-cloud-python/commit/503501456f77783c07076530b63e58292f26dec4))
+* A comment for field `transfer_bytes` in message `.google.cloud.netapp.v1.TransferStats` is changed ([1423ec9](https://github.com/chingor13/google-cloud-python/commit/1423ec9bacb0f81f7e46929a6b82ecb5f20d24eb))
+* Update import statement example in README ([868b006](https://github.com/chingor13/google-cloud-python/commit/868b0069baf1a4bf6705986e0b6885419b35cdcc))
+
 ## [0.3.23](https://github.com/googleapis/google-cloud-python/compare/google-cloud-netapp-v0.3.22...google-cloud-netapp-v0.3.23) (2025-05-20)
 
 

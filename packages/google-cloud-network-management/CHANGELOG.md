@@ -1,5 +1,49 @@
 # Changelog
 
+## [1.28.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-network-management-v1.27.0...google-cloud-network-management-v1.28.0) (2025-08-07)
+
+
+### Features
+
+* add enum DeliverInfo.GoogleServiceType ([dc99ea0](https://github.com/chingor13/google-cloud-python/commit/dc99ea08c7928c32296a53f25e98c4ae0b16486d))
+* add enum Status to message InstanceInfo ([dc99ea0](https://github.com/chingor13/google-cloud-python/commit/dc99ea08c7928c32296a53f25e98c4ae0b16486d))
+* add enum types related to Abort ([35034e1](https://github.com/chingor13/google-cloud-python/commit/35034e1ec48b830622be4c7c327fd6813288510a))
+* add enum types related to Drop ([35034e1](https://github.com/chingor13/google-cloud-python/commit/35034e1ec48b830622be4c7c327fd6813288510a))
+* add enum types related to Firewall ([35034e1](https://github.com/chingor13/google-cloud-python/commit/35034e1ec48b830622be4c7c327fd6813288510a))
+* add enum types related to Google Service ([35034e1](https://github.com/chingor13/google-cloud-python/commit/35034e1ec48b830622be4c7c327fd6813288510a))
+* add enum value AbortInfo.Cause.GOOGLE_MANAGED_SERVICE_AMBIGUOUS_ENDPOINT ([dc99ea0](https://github.com/chingor13/google-cloud-python/commit/dc99ea08c7928c32296a53f25e98c4ae0b16486d))
+* add enum value RouteInfo.NextHopType.SECURE_WEB_PROXY_GATEWAY ([dc99ea0](https://github.com/chingor13/google-cloud-python/commit/dc99ea08c7928c32296a53f25e98c4ae0b16486d))
+* add enum values NO_ROUTE_FROM_EXTERNAL_IPV6_SOURCE_TO_PRIVATE_IPV6_ADDRESS, TRAFFIC_FROM_HYBRID_ENDPOINT_TO_INTERNET_DISALLOWED, NO_MATCHING_NAT64_GATEWAY, LOAD_BALANCER_BACKEND_IP_VERSION_MISMATCH, and NO_KNOWN_ROUTE_FROM_NCC_NETWORK_TO_DESTINATION to DropInfo.Cause ([dc99ea0](https://github.com/chingor13/google-cloud-python/commit/dc99ea08c7928c32296a53f25e98c4ae0b16486d))
+* add enum VpcFlowLogsConfig.CrossProjectMetadata ([dc99ea0](https://github.com/chingor13/google-cloud-python/commit/dc99ea08c7928c32296a53f25e98c4ae0b16486d))
+* add enum VpcFlowLogsConfig.TargetResourceState ([dc99ea0](https://github.com/chingor13/google-cloud-python/commit/dc99ea08c7928c32296a53f25e98c4ae0b16486d))
+* add field google_service_type to message DeliverInfo ([dc99ea0](https://github.com/chingor13/google-cloud-python/commit/dc99ea08c7928c32296a53f25e98c4ae0b16486d))
+* add field policy_priority to message NetworkInfo ([dc99ea0](https://github.com/chingor13/google-cloud-python/commit/dc99ea08c7928c32296a53f25e98c4ae0b16486d))
+* add field running to message InstanceInfo ([dc99ea0](https://github.com/chingor13/google-cloud-python/commit/dc99ea08c7928c32296a53f25e98c4ae0b16486d))
+* add field service_uri to message Endpoint.CloudRunRevisionEndpoint ([dc99ea0](https://github.com/chingor13/google-cloud-python/commit/dc99ea08c7928c32296a53f25e98c4ae0b16486d))
+* add fields cross_project_metadata, target_resource_state, network, and subnet to message VpcFlowLogsConfig ([dc99ea0](https://github.com/chingor13/google-cloud-python/commit/dc99ea08c7928c32296a53f25e98c4ae0b16486d))
+* add http additional_bindings ([dc99ea0](https://github.com/chingor13/google-cloud-python/commit/dc99ea08c7928c32296a53f25e98c4ae0b16486d))
+* add message Endpoint.SingleEdgeResponse ([dc99ea0](https://github.com/chingor13/google-cloud-python/commit/dc99ea08c7928c32296a53f25e98c4ae0b16486d))
+* add messages and fields related to Direct VPC Egress ([35034e1](https://github.com/chingor13/google-cloud-python/commit/35034e1ec48b830622be4c7c327fd6813288510a))
+* add messages and fields related to Route ([35034e1](https://github.com/chingor13/google-cloud-python/commit/35034e1ec48b830622be4c7c327fd6813288510a))
+* add messages and fields related to Serverless External ([35034e1](https://github.com/chingor13/google-cloud-python/commit/35034e1ec48b830622be4c7c327fd6813288510a))
+* add rpc VpcFlowLogsService.QueryOrgVpcFlowLogsConfigs ([dc99ea0](https://github.com/chingor13/google-cloud-python/commit/dc99ea08c7928c32296a53f25e98c4ae0b16486d))
+* add service OrganizationVpcFlowLogsService ([dc99ea0](https://github.com/chingor13/google-cloud-python/commit/dc99ea08c7928c32296a53f25e98c4ae0b16486d))
+* Enable organization-level support for VPC Flow Logs ([dc99ea0](https://github.com/chingor13/google-cloud-python/commit/dc99ea08c7928c32296a53f25e98c4ae0b16486d))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([c8bbf32](https://github.com/chingor13/google-cloud-python/commit/c8bbf32606e790b559b261bf96700c76b6e2bfce))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* [google-cloud-network-management] Update comments for Connectivity Test ([#13669](https://github.com/chingor13/google-cloud-python/issues/13669)) ([9321997](https://github.com/chingor13/google-cloud-python/commit/932199775d19958b932b39b0178caaa5c83ad2ee))
+* Update import statement example in README ([868b006](https://github.com/chingor13/google-cloud-python/commit/868b0069baf1a4bf6705986e0b6885419b35cdcc))
+* update outdated comments ([35034e1](https://github.com/chingor13/google-cloud-python/commit/35034e1ec48b830622be4c7c327fd6813288510a))
+* Various documentation and comment improvements, Enable organization-level support for VPC Flow Logs ([dc99ea0](https://github.com/chingor13/google-cloud-python/commit/dc99ea08c7928c32296a53f25e98c4ae0b16486d))
+
 ## [1.27.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-network-management-v1.26.1...google-cloud-network-management-v1.27.0) (2025-07-10)
 
 
