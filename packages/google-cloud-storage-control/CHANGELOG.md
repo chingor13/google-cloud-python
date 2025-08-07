@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.7.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-storage-control-v1.6.1...google-cloud-storage-control-v1.7.0) (2025-08-07)
+
+
+### Features
+
+* [google-cloud-storage-control] Support REST transport for all clients ([#14029](https://github.com/chingor13/google-cloud-python/issues/14029)) ([3c3722b](https://github.com/chingor13/google-cloud-python/commit/3c3722bc960ca8f97ad204737088fa71dd4d2e45))
+* Add Anywhere cache control APIs ([b47ef05](https://github.com/chingor13/google-cloud-python/commit/b47ef056e2796ce8706391b29b65132f26be7040))
+* Add Client Libraries Storage IntelligenceConfig ([2fe4678](https://github.com/chingor13/google-cloud-python/commit/2fe4678e19f728412ce970732328f1481aeaf02d))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([784a3ca](https://github.com/chingor13/google-cloud-python/commit/784a3ca7a180453320521753f5bce71de329d65c))
+* Allow Protobuf 6.x ([#13651](https://github.com/chingor13/google-cloud-python/issues/13651)) ([1b8080e](https://github.com/chingor13/google-cloud-python/commit/1b8080e7069c9d0776e293bab06db54adf157aef))
+
+
+### Documentation
+
+* Added comments for Anywhere cache messages ([b47ef05](https://github.com/chingor13/google-cloud-python/commit/b47ef056e2796ce8706391b29b65132f26be7040))
+* Set API shortname storagecontrol to storage ([dd531aa](https://github.com/chingor13/google-cloud-python/commit/dd531aaf1a6afcfa5b6f4b02b6758e8c639ad72e))
+
 ## [1.6.1](https://github.com/googleapis/google-cloud-python/compare/google-cloud-storage-control-v1.6.0...google-cloud-storage-control-v1.6.1) (2025-07-23)
 
 

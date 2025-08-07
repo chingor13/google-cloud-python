@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.13.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-video-live-stream-v1.12.0...google-cloud-video-live-stream-v1.13.0) (2025-08-07)
+
+
+### Features
+
+* added DVRSession methods to support DVR feature ([f20efc4](https://github.com/chingor13/google-cloud-python/commit/f20efc44ed858b34b96a70dfcd8938e6be86cbb2))
+* added OutputType field to the Clip resource to support MP4 clipping ([f20efc4](https://github.com/chingor13/google-cloud-python/commit/f20efc44ed858b34b96a70dfcd8938e6be86cbb2))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([4757dae](https://github.com/chingor13/google-cloud-python/commit/4757daede978618382ba46f4aa91bb9cfd9b937b))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* A comment for field `requested_cancellation` in message `.google.cloud.video.livestream.v1.OperationMetadata` is changed to clarify error type ([f20efc4](https://github.com/chingor13/google-cloud-python/commit/f20efc44ed858b34b96a70dfcd8938e6be86cbb2))
+* Clarified GCS in the comment for method `DeleteClip` in service `LivestreamService` ([f20efc4](https://github.com/chingor13/google-cloud-python/commit/f20efc44ed858b34b96a70dfcd8938e6be86cbb2))
+* Update import statement example in README ([0131a33](https://github.com/chingor13/google-cloud-python/commit/0131a33582f84d9be5ecb1c0ef8b56aa3d9e9cf0))
+* Updated comment for field `update_mask` in message `.google.cloud.video.livestream.v1.UpdateInputRequest` to indicate updates in `tier` field are allowed ([f20efc4](https://github.com/chingor13/google-cloud-python/commit/f20efc44ed858b34b96a70dfcd8938e6be86cbb2))
+
 ## [1.12.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-video-live-stream-v1.11.1...google-cloud-video-live-stream-v1.12.0) (2025-05-15)
 
 
