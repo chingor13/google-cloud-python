@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.9](https://github.com/chingor13/google-cloud-python/compare/google-shopping-merchant-quota-v0.1.8...google-shopping-merchant-quota-v0.1.9) (2025-08-07)
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([36e8ba1](https://github.com/chingor13/google-cloud-python/commit/36e8ba12eac92dd221ac3ddf1061da3845135791))
+
+
+### Documentation
+
+* Update import statement example in README ([4f0a027](https://github.com/chingor13/google-cloud-python/commit/4f0a0270b494d47e80373b87e7668283dbbceec7))
+
 ## [0.1.8](https://github.com/googleapis/google-cloud-python/compare/google-shopping-merchant-quota-v0.1.7...google-shopping-merchant-quota-v0.1.8) (2025-06-11)
 
 

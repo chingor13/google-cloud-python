@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.71.0](https://github.com/chingor13/google-cloud-python/compare/googleapis-common-protos-v1.70.0...googleapis-common-protos-v1.71.0) (2025-08-07)
+
+
+### Features
+
+* expand QuotaFailure with quota error details ([#13745](https://github.com/chingor13/google-cloud-python/issues/13745)) ([5535afe](https://github.com/chingor13/google-cloud-python/commit/5535afe64021ce9688dd95742af201edb402dcf0))
+* migrate to pyproject.toml ([#13551](https://github.com/chingor13/google-cloud-python/issues/13551)) ([7dda4d0](https://github.com/chingor13/google-cloud-python/commit/7dda4d0b94038444911a9796d74649bea2216a35))
+
+
+### Bug Fixes
+
+* Allow protobuf 6.x ([b4d4551](https://github.com/chingor13/google-cloud-python/commit/b4d45514e4ab630334a54eb4201576062ecc1958))
+* exclude docs in tool.setuptools.packages.find ([#13607](https://github.com/chingor13/google-cloud-python/issues/13607)) ([1e4de9d](https://github.com/chingor13/google-cloud-python/commit/1e4de9d50950c7536f428d96775d81cefdda1d9b))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+* resolve issue where pre-release versions of dependencies are installed ([b4d4551](https://github.com/chingor13/google-cloud-python/commit/b4d45514e4ab630334a54eb4201576062ecc1958))
+* restore *.proto files removed in version 1.67.0 ([#13614](https://github.com/chingor13/google-cloud-python/issues/13614)) ([323a503](https://github.com/chingor13/google-cloud-python/commit/323a503b69afcb23eababa0a0b21232a02c0f1f3))
+* set `include` in `tool.setuptools.packages.find` ([#13662](https://github.com/chingor13/google-cloud-python/issues/13662)) ([c6a1588](https://github.com/chingor13/google-cloud-python/commit/c6a158821fad0f102d69b53781df3135c7483b31))
+
 ## [1.70.0](https://github.com/googleapis/google-cloud-python/compare/googleapis-common-protos-v1.69.2...googleapis-common-protos-v1.70.0) (2025-04-12)
 
 

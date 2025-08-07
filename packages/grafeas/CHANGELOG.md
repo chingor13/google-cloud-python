@@ -4,6 +4,25 @@
 
 [1]: https://pypi.org/project/grafeas/#history
 
+## [1.16.0](https://github.com/chingor13/google-cloud-python/compare/grafeas-v1.15.0...grafeas-v1.16.0) (2025-08-07)
+
+
+### Features
+
+* Add support for Layer Details ([f7fc9c4](https://github.com/chingor13/google-cloud-python/commit/f7fc9c4b7432ad60fa488d6a902ab35586543dc5))
+* Add support for Secrets ([f7fc9c4](https://github.com/chingor13/google-cloud-python/commit/f7fc9c4b7432ad60fa488d6a902ab35586543dc5))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([36e8ba1](https://github.com/chingor13/google-cloud-python/commit/36e8ba12eac92dd221ac3ddf1061da3845135791))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* Update import statement example in README ([4f0a027](https://github.com/chingor13/google-cloud-python/commit/4f0a0270b494d47e80373b87e7668283dbbceec7))
+
 ## [1.15.0](https://github.com/googleapis/google-cloud-python/compare/grafeas-v1.14.1...grafeas-v1.15.0) (2025-05-08)
 
 
