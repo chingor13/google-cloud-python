@@ -1,5 +1,45 @@
 # Changelog
 
+## [0.3.0](https://github.com/chingor13/google-cloud-python/compare/google-maps-places-v0.2.2...google-maps-places-v0.3.0) (2025-08-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* An existing field `references` is removed from message `.google.maps.places.v1.Place`
+* An existing message `AreaSummary` is removed
+* An existing field `area_summary` is removed from message `.google.maps.places.v1.Place`
+* An existing field `description` is removed from message `.google.maps.places.v1.Place`
+
+### Features
+
+* add address descriptor proto ([657feee](https://github.com/chingor13/google-cloud-python/commit/657feee6e32efc9fef8a8df11790a24d8750ad36))
+* add new GoogleMapsLinks fields ([657feee](https://github.com/chingor13/google-cloud-python/commit/657feee6e32efc9fef8a8df11790a24d8750ad36))
+* add new NeighborhoodSummary fields ([657feee](https://github.com/chingor13/google-cloud-python/commit/657feee6e32efc9fef8a8df11790a24d8750ad36))
+* add new photo fields ([657feee](https://github.com/chingor13/google-cloud-python/commit/657feee6e32efc9fef8a8df11790a24d8750ad36))
+* add new review fields ([657feee](https://github.com/chingor13/google-cloud-python/commit/657feee6e32efc9fef8a8df11790a24d8750ad36))
+* add new ReviewSummary fields ([657feee](https://github.com/chingor13/google-cloud-python/commit/657feee6e32efc9fef8a8df11790a24d8750ad36))
+* Add postal_address and time_zone to Place ([bde4694](https://github.com/chingor13/google-cloud-python/commit/bde469472b1a74a39c8d8607c3c834e988bb0a7e))
+* update GenerativeSummary fields ([657feee](https://github.com/chingor13/google-cloud-python/commit/657feee6e32efc9fef8a8df11790a24d8750ad36))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([25ced24](https://github.com/chingor13/google-cloud-python/commit/25ced2444528a1dc6a22daa32b82b844961f1b75))
+* An existing field `area_summary` is removed from message `.google.maps.places.v1.Place` ([657feee](https://github.com/chingor13/google-cloud-python/commit/657feee6e32efc9fef8a8df11790a24d8750ad36))
+* An existing field `description` is removed from message `.google.maps.places.v1.Place` ([657feee](https://github.com/chingor13/google-cloud-python/commit/657feee6e32efc9fef8a8df11790a24d8750ad36))
+* An existing field `references` is removed from message `.google.maps.places.v1.Place` ([657feee](https://github.com/chingor13/google-cloud-python/commit/657feee6e32efc9fef8a8df11790a24d8750ad36))
+* An existing message `AreaSummary` is removed ([657feee](https://github.com/chingor13/google-cloud-python/commit/657feee6e32efc9fef8a8df11790a24d8750ad36))
+
+
+### Documentation
+
+* [google-maps-places] Change comments in some fields in Places API ([#13635](https://github.com/chingor13/google-cloud-python/issues/13635)) ([bde4694](https://github.com/chingor13/google-cloud-python/commit/bde469472b1a74a39c8d8607c3c834e988bb0a7e))
+* [google-maps-places] clarify behavior of primary types and weekday text ([#14050](https://github.com/chingor13/google-cloud-python/issues/14050)) ([cf3183e](https://github.com/chingor13/google-cloud-python/commit/cf3183ec0774fb22afedea6e03716c31a9004b3a))
+* add link to handwritten samples for google-maps-places ([#13953](https://github.com/chingor13/google-cloud-python/issues/13953)) ([ff38a2f](https://github.com/chingor13/google-cloud-python/commit/ff38a2f251311ca9c70fd010a954a49fa72ef3ed))
+* change comments for some fields in Places API ([657feee](https://github.com/chingor13/google-cloud-python/commit/657feee6e32efc9fef8a8df11790a24d8750ad36))
+* remove auto-generated snippets for google/maps/places/v1 ([2a9a069](https://github.com/chingor13/google-cloud-python/commit/2a9a0698759a369c1bfae9d8a39c0231dace5ff8))
+* Update import statement example in README ([8066d24](https://github.com/chingor13/google-cloud-python/commit/8066d24068e6d036dcf77e7abb5401a5ba3f8a63))
+
 ## [0.2.2](https://github.com/googleapis/google-cloud-python/compare/google-maps-places-v0.2.1...google-maps-places-v0.2.2) (2025-07-02)
 
 

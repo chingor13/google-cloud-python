@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.4.9](https://github.com/chingor13/google-cloud-python/compare/google-maps-mapsplatformdatasets-v0.4.8...google-maps-mapsplatformdatasets-v0.4.9) (2025-08-07)
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([25ced24](https://github.com/chingor13/google-cloud-python/commit/25ced2444528a1dc6a22daa32b82b844961f1b75))
+
+
+### Documentation
+
+* Update import statement example in README ([8066d24](https://github.com/chingor13/google-cloud-python/commit/8066d24068e6d036dcf77e7abb5401a5ba3f8a63))
+
 ## [0.4.8](https://github.com/googleapis/google-cloud-python/compare/google-maps-mapsplatformdatasets-v0.4.7...google-maps-mapsplatformdatasets-v0.4.8) (2025-06-11)
 
 

@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.1.18](https://github.com/chingor13/google-cloud-python/compare/google-shopping-css-v0.1.17...google-shopping-css-v0.1.18) (2025-08-07)
+
+
+### Features
+
+* Introduce QuotaService for CSS API ([1c2d32c](https://github.com/chingor13/google-cloud-python/commit/1c2d32cddd80da9ede0bbc39d1a93aa9d7305f3f))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([25ced24](https://github.com/chingor13/google-cloud-python/commit/25ced2444528a1dc6a22daa32b82b844961f1b75))
+
+
+### Documentation
+
+* [google-shopping-css] added a clarifying note to the description of the parent field in the Account resource ([#13698](https://github.com/chingor13/google-cloud-python/issues/13698)) ([46df862](https://github.com/chingor13/google-cloud-python/commit/46df862e3f012d24de08f19c31250c7d687f2b16))
+* A comment for field `name` in message `.google.shopping.css.v1.CssProductInput` is changed ([1c2d32c](https://github.com/chingor13/google-cloud-python/commit/1c2d32cddd80da9ede0bbc39d1a93aa9d7305f3f))
+* A comment for field `name` in message `.google.shopping.css.v1.DeleteCssProductInputRequest` is changed ([1c2d32c](https://github.com/chingor13/google-cloud-python/commit/1c2d32cddd80da9ede0bbc39d1a93aa9d7305f3f))
+* Update import statement example in README ([8066d24](https://github.com/chingor13/google-cloud-python/commit/8066d24068e6d036dcf77e7abb5401a5ba3f8a63))
+
 ## [0.1.17](https://github.com/googleapis/google-cloud-python/compare/google-shopping-css-v0.1.16...google-shopping-css-v0.1.17) (2025-06-11)
 
 
