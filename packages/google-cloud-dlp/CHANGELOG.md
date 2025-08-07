@@ -4,6 +4,32 @@
 
 [1]: https://pypi.org/project/google-cloud-dlp/#history
 
+## [3.32.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-dlp-v3.31.0...google-cloud-dlp-v3.32.0) (2025-08-07)
+
+
+### Features
+
+* add a project ID to table reference so that org parents can create single table discovery configs. ([f92f4eb](https://github.com/chingor13/google-cloud-python/commit/f92f4eb2cea860c46e19ee0c5b55a27db6699e55))
+* add Dataplex Catalog action for discovery configs ([f92f4eb](https://github.com/chingor13/google-cloud-python/commit/f92f4eb2cea860c46e19ee0c5b55a27db6699e55))
+* add sample findings for data profiles ([7a7e679](https://github.com/chingor13/google-cloud-python/commit/7a7e6795deed2761892174e15992d808225c657f))
+* add SaveToGcsFindingsOutput ([b568ff5](https://github.com/chingor13/google-cloud-python/commit/b568ff5d1b0ac5b8a2fd65cac97e495cd80f5981))
+* list tags on resources for data profiles ([7a7e679](https://github.com/chingor13/google-cloud-python/commit/7a7e6795deed2761892174e15992d808225c657f))
+* new fields for data profile finding. ([f92f4eb](https://github.com/chingor13/google-cloud-python/commit/f92f4eb2cea860c46e19ee0c5b55a27db6699e55))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([feb5353](https://github.com/chingor13/google-cloud-python/commit/feb53532240bb70a94b359b519f0f41f95875a33))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* minor doc revision ([b568ff5](https://github.com/chingor13/google-cloud-python/commit/b568ff5d1b0ac5b8a2fd65cac97e495cd80f5981))
+* Update import statement example in README ([3d5bc37](https://github.com/chingor13/google-cloud-python/commit/3d5bc3782da6b37742ae83802de8a8b6db96fe29))
+* updated documentation for various fields and messages ([7a7e679](https://github.com/chingor13/google-cloud-python/commit/7a7e6795deed2761892174e15992d808225c657f))
+* various doc revisions ([f92f4eb](https://github.com/chingor13/google-cloud-python/commit/f92f4eb2cea860c46e19ee0c5b55a27db6699e55))
+
 ## [3.31.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-dlp-v3.30.0...google-cloud-dlp-v3.31.0) (2025-06-19)
 
 

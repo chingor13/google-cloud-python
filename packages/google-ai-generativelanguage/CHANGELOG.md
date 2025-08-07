@@ -1,5 +1,31 @@
 # Changelog
 
+## [0.6.19](https://github.com/chingor13/google-cloud-python/compare/google-ai-generativelanguage-v0.6.18...google-ai-generativelanguage-v0.6.19) (2025-08-07)
+
+
+### Features
+
+* add CODE_RETRIEVAL_QUERY embedding task type ([d530650](https://github.com/chingor13/google-cloud-python/commit/d530650ea02714abaef4c8295717d286743ed4f1))
+* add CODE_RETRIEVAL_QUERY embedding task type ([d530650](https://github.com/chingor13/google-cloud-python/commit/d530650ea02714abaef4c8295717d286743ed4f1))
+* add language_code to speech config ([d530650](https://github.com/chingor13/google-cloud-python/commit/d530650ea02714abaef4c8295717d286743ed4f1))
+* add minimum, maximum, any_of, property_ordering, default and null type to Schema ([d530650](https://github.com/chingor13/google-cloud-python/commit/d530650ea02714abaef4c8295717d286743ed4f1))
+* add seed to GenerationConfig ([d530650](https://github.com/chingor13/google-cloud-python/commit/d530650ea02714abaef4c8295717d286743ed4f1))
+* add support for live API (https://github.com/googleapis/go-genai/issues/275) ([d530650](https://github.com/chingor13/google-cloud-python/commit/d530650ea02714abaef4c8295717d286743ed4f1))
+* add support for ModalityTokenCounts in UsageMetadata responses ([d530650](https://github.com/chingor13/google-cloud-python/commit/d530650ea02714abaef4c8295717d286743ed4f1))
+* add support for ModalityTokenCounts in UsageMetadata responses ([d530650](https://github.com/chingor13/google-cloud-python/commit/d530650ea02714abaef4c8295717d286743ed4f1))
+* add support for Veo: PredictLongRunning and generated/downloadable files ([d530650](https://github.com/chingor13/google-cloud-python/commit/d530650ea02714abaef4c8295717d286743ed4f1))
+* add ThinkingConfig, MediaResolution, and seed to GenerationConfig ([d530650](https://github.com/chingor13/google-cloud-python/commit/d530650ea02714abaef4c8295717d286743ed4f1))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([a1b9294](https://github.com/chingor13/google-cloud-python/commit/a1b9294d0bf6e27c2a951d6df7faf7807dc5420b))
+
+
+### Documentation
+
+* Update import statement example in README ([1562bb7](https://github.com/chingor13/google-cloud-python/commit/1562bb740c7cd56179e52185dde3c32af861de5e))
+
 ## [0.6.18](https://github.com/googleapis/google-cloud-python/compare/google-ai-generativelanguage-v0.6.17...google-ai-generativelanguage-v0.6.18) (2025-04-29)
 
 

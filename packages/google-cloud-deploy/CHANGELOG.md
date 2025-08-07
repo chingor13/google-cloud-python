@@ -1,5 +1,27 @@
 # Changelog
 
+## [2.8.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-deploy-v2.7.1...google-cloud-deploy-v2.8.0) (2025-08-07)
+
+
+### Features
+
+* Add resource definition for Revision ([831dd1d](https://github.com/chingor13/google-cloud-python/commit/831dd1d815e29c54f0ba9428e799bf805970c574))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([feb5353](https://github.com/chingor13/google-cloud-python/commit/feb53532240bb70a94b359b519f0f41f95875a33))
+* correct pattern of unused resource definition, Revision ([fe6f95f](https://github.com/chingor13/google-cloud-python/commit/fe6f95fbab89079a49bd7d48bd50d9a93ef2a963))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* [google-cloud-deploy] fix typo in comments ([#13694](https://github.com/chingor13/google-cloud-python/issues/13694)) ([00baa06](https://github.com/chingor13/google-cloud-python/commit/00baa069072a021b874b08917466ac6178d9f41d))
+* Comments updated for fields in several different resources ([fe6f95f](https://github.com/chingor13/google-cloud-python/commit/fe6f95fbab89079a49bd7d48bd50d9a93ef2a963))
+* Typos fixes and small improvements ([831dd1d](https://github.com/chingor13/google-cloud-python/commit/831dd1d815e29c54f0ba9428e799bf805970c574))
+* Update import statement example in README ([3d5bc37](https://github.com/chingor13/google-cloud-python/commit/3d5bc3782da6b37742ae83802de8a8b6db96fe29))
+
 ## [2.7.1](https://github.com/googleapis/google-cloud-python/compare/google-cloud-deploy-v2.7.0...google-cloud-deploy-v2.7.1) (2025-05-08)
 
 

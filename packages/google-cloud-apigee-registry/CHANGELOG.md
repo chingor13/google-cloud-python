@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.6.19](https://github.com/chingor13/google-cloud-python/compare/google-cloud-apigee-registry-v0.6.18...google-cloud-apigee-registry-v0.6.19) (2025-08-07)
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([a1b9294](https://github.com/chingor13/google-cloud-python/commit/a1b9294d0bf6e27c2a951d6df7faf7807dc5420b))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* Update import statement example in README ([1562bb7](https://github.com/chingor13/google-cloud-python/commit/1562bb740c7cd56179e52185dde3c32af861de5e))
+
 ## [0.6.18](https://github.com/googleapis/google-cloud-python/compare/google-cloud-apigee-registry-v0.6.17...google-cloud-apigee-registry-v0.6.18) (2025-06-11)
 
 

@@ -4,6 +4,26 @@
 
 [1]: https://pypi.org/project/google-cloud-kms/#history
 
+## [3.6.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-kms-v3.5.1...google-cloud-kms-v3.6.0) (2025-08-07)
+
+
+### Features
+
+* Adding eTag field to AutokeyConfig ([5d7b972](https://github.com/chingor13/google-cloud-python/commit/5d7b9728009f7ef561d65d70a8b712400b509d34))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([e06ee32](https://github.com/chingor13/google-cloud-python/commit/e06ee325de4125cdfcaf040a77dc9ccc82843260))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* [google-cloud-kms] A comment for enum value `DESTROYED` in enum `CryptoKeyVersionState` is changed ([#13913](https://github.com/chingor13/google-cloud-python/issues/13913)) ([cdca657](https://github.com/chingor13/google-cloud-python/commit/cdca65752c8ae2289c09f0320e39b66826725417))
+* Update import statement example in README ([868b006](https://github.com/chingor13/google-cloud-python/commit/868b0069baf1a4bf6705986e0b6885419b35cdcc))
+* Updating docs for total_size field in KMS List APIs ([5d7b972](https://github.com/chingor13/google-cloud-python/commit/5d7b9728009f7ef561d65d70a8b712400b509d34))
+
 ## [3.5.1](https://github.com/googleapis/google-cloud-python/compare/google-cloud-kms-v3.5.0...google-cloud-kms-v3.5.1) (2025-05-20)
 
 

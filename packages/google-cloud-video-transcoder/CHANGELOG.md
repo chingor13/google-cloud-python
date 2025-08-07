@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.17.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-video-transcoder-v1.16.0...google-cloud-video-transcoder-v1.17.0) (2025-08-07)
+
+
+### Features
+
+* added support for converting the input video to a supported high dynamic range (HDR) formats ([dad1378](https://github.com/chingor13/google-cloud-python/commit/dad137832990f592fc9b90bbe387cee1a8973128))
+* added support for DROP_DUPLICATE frame rate conversion strategy to achieve the exact frame rate on the output video ([dad1378](https://github.com/chingor13/google-cloud-python/commit/dad137832990f592fc9b90bbe387cee1a8973128))
+* added support for fill_content_gaps field to allow processing inputs with significant number of missing frames ([dad1378](https://github.com/chingor13/google-cloud-python/commit/dad137832990f592fc9b90bbe387cee1a8973128))
+* added support for specifying HEVC codec tag ([dad1378](https://github.com/chingor13/google-cloud-python/commit/dad137832990f592fc9b90bbe387cee1a8973128))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([4757dae](https://github.com/chingor13/google-cloud-python/commit/4757daede978618382ba46f4aa91bb9cfd9b937b))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* improve comment formatting, add links, add references ([dad1378](https://github.com/chingor13/google-cloud-python/commit/dad137832990f592fc9b90bbe387cee1a8973128))
+* Update import statement example in README ([0131a33](https://github.com/chingor13/google-cloud-python/commit/0131a33582f84d9be5ecb1c0ef8b56aa3d9e9cf0))
+
 ## [1.16.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-video-transcoder-v1.15.2...google-cloud-video-transcoder-v1.16.0) (2025-07-23)
 
 

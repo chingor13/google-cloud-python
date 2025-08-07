@@ -5,6 +5,29 @@
 [1]: https://pypi.org/project/google-cloud-translate/#history
 
 
+## [3.22.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-translate-v3.21.1...google-cloud-translate-v3.22.0) (2025-08-07)
+
+
+### Features
+
+* add google.cloud.location.Locations API ([b1831f5](https://github.com/chingor13/google-cloud-python/commit/b1831f5b40061c3939bcee7274cf70a7348a7fea))
+* add google.iam.v1.IAMPolicy API ([b1831f5](https://github.com/chingor13/google-cloud-python/commit/b1831f5b40061c3939bcee7274cf70a7348a7fea))
+* add google.longrunning.Operations API ([b1831f5](https://github.com/chingor13/google-cloud-python/commit/b1831f5b40061c3939bcee7274cf70a7348a7fea))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([4757dae](https://github.com/chingor13/google-cloud-python/commit/4757daede978618382ba46f4aa91bb9cfd9b937b))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* [google-cloud-translate] minor formatting ([#14035](https://github.com/chingor13/google-cloud-python/issues/14035)) ([bf121c4](https://github.com/chingor13/google-cloud-python/commit/bf121c44586c1dbb80b8e67c18018db75749e669))
+* minor formatting ([b1831f5](https://github.com/chingor13/google-cloud-python/commit/b1831f5b40061c3939bcee7274cf70a7348a7fea))
+* Update hyperlink to the supported languages documentation page ([b1831f5](https://github.com/chingor13/google-cloud-python/commit/b1831f5b40061c3939bcee7274cf70a7348a7fea))
+* Update import statement example in README ([0131a33](https://github.com/chingor13/google-cloud-python/commit/0131a33582f84d9be5ecb1c0ef8b56aa3d9e9cf0))
+
 ## [3.21.1](https://github.com/googleapis/google-cloud-python/compare/google-cloud-translate-v3.21.0...google-cloud-translate-v3.21.1) (2025-07-02)
 
 

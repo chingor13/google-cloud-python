@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.1.17](https://github.com/chingor13/google-cloud-python/compare/google-cloud-storageinsights-v0.1.16...google-cloud-storageinsights-v0.1.17) (2025-08-07)
+
+
+### Features
+
+* Add Client Libraries for Datasets ([2e7f0b8](https://github.com/chingor13/google-cloud-python/commit/2e7f0b8527639ea06509d9037d490766b3871c3f))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([784a3ca](https://github.com/chingor13/google-cloud-python/commit/784a3ca7a180453320521753f5bce71de329d65c))
+
+
+### Documentation
+
+* Update import statement example in README ([0131a33](https://github.com/chingor13/google-cloud-python/commit/0131a33582f84d9be5ecb1c0ef8b56aa3d9e9cf0))
+
 ## [0.1.16](https://github.com/googleapis/google-cloud-python/compare/google-cloud-storageinsights-v0.1.15...google-cloud-storageinsights-v0.1.16) (2025-05-15)
 
 

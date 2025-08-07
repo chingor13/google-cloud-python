@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.29.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-recaptcha-enterprise-v1.28.2...google-cloud-recaptcha-enterprise-v1.29.0) (2025-08-07)
+
+
+### Features
+
+* [google-cloud-recaptcha-enterprise] A new field `ja4` is added to message `Event` ([#13645](https://github.com/chingor13/google-cloud-python/issues/13645)) ([885dc9c](https://github.com/chingor13/google-cloud-python/commit/885dc9cf70e47796a57ee12cfd7a3b9d066ee65c))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([7295cbb](https://github.com/chingor13/google-cloud-python/commit/7295cbb7c3122eeff1042c3c543bfc9b8b3ca913))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* [google-cloud-recaptcha-enterprise] fix typo in ([4247899](https://github.com/chingor13/google-cloud-python/commit/424789974b4aba88918035cc14e158839da931e8))
+* update documentation ([885dc9c](https://github.com/chingor13/google-cloud-python/commit/885dc9cf70e47796a57ee12cfd7a3b9d066ee65c))
+* Update import statement example in README ([dfc2cd6](https://github.com/chingor13/google-cloud-python/commit/dfc2cd6be6422baa45dcebc5ff6e7fc846bf5c7d))
+
 ## [1.28.2](https://github.com/googleapis/google-cloud-python/compare/google-cloud-recaptcha-enterprise-v1.28.1...google-cloud-recaptcha-enterprise-v1.28.2) (2025-06-11)
 
 

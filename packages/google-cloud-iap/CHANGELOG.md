@@ -1,5 +1,50 @@
 # Changelog
 
+## [1.18.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-iap-v1.17.1...google-cloud-iap-v1.18.0) (2025-08-07)
+
+
+### Features
+
+* Add fields `AccessSettings.workforce_identity_settings` and `AccessSettings.identity_sources` ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Use IAP with Workforce Identity Federation ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([e06ee32](https://github.com/chingor13/google-cloud-python/commit/e06ee325de4125cdfcaf040a77dc9ccc82843260))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* A comment for enum `PolicyType` is changed ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* A comment for field `cidrs` in message `.google.cloud.iap.v1.TunnelDestGroup` is changed ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* A comment for field `fqdns` in message `.google.cloud.iap.v1.TunnelDestGroup` is changed ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* A comment for field `name` in message `.google.cloud.iap.v1.TunnelDestGroup` is changed ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Add clarifications on IAP CorsSettings behavior ([80c61d3](https://github.com/chingor13/google-cloud-python/commit/80c61d3fb32e124be9c02d0439a00d12f67d890a))
+* Mark `access_denied_page_settings` in message `.google.cloud.iap.v1.ApplicationSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Mark `access_settings` in message `.google.cloud.iap.v1.IapSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Mark `allowed_domains_settings` in message `.google.cloud.iap.v1.AccessSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Mark `application_settings` in message `.google.cloud.iap.v1.IapSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Mark `attribute_propagation_settings` in message `.google.cloud.iap.v1.ApplicationSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Mark `cors_settings` in message `.google.cloud.iap.v1.AccessSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Mark `csm_settings` in message `.google.cloud.iap.v1.ApplicationSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Mark `domains` in message `.google.cloud.iap.v1.AllowedDomainsSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Mark `enable` in message `.google.cloud.iap.v1.AllowedDomainsSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Mark `enable` in message `.google.cloud.iap.v1.AttributePropagationSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Mark `expression` in message `.google.cloud.iap.v1.AttributePropagationSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Mark `gcip_settings` in message `.google.cloud.iap.v1.AccessSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Mark `max_age` in message `.google.cloud.iap.v1.ReauthSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Mark `method` in message `.google.cloud.iap.v1.ReauthSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Mark `oauth_settings` in message `.google.cloud.iap.v1.AccessSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Mark `output_credentials` in message `.google.cloud.iap.v1.AttributePropagationSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Mark `policy_type` in message `.google.cloud.iap.v1.ReauthSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Mark `programmatic_clients` in message `.google.cloud.iap.v1.OAuthSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Mark `reauth_settings` in message `.google.cloud.iap.v1.AccessSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Mark `tenant_ids` in message `.google.cloud.iap.v1.GcipSettings` as optional ([9114e1d](https://github.com/chingor13/google-cloud-python/commit/9114e1da42d7994f4050c9204538e04ee4735eff))
+* Minor updates on GcipSettings description ([80c61d3](https://github.com/chingor13/google-cloud-python/commit/80c61d3fb32e124be9c02d0439a00d12f67d890a))
+* Update import statement example in README ([821bdb1](https://github.com/chingor13/google-cloud-python/commit/821bdb1d108c8e77a7a576557aa95d4b9c943e12))
+
 ## [1.17.1](https://github.com/googleapis/google-cloud-python/compare/google-cloud-iap-v1.17.0...google-cloud-iap-v1.17.1) (2025-05-29)
 
 

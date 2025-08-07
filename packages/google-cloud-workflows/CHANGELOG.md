@@ -1,5 +1,31 @@
 # Changelog
 
+## [1.19.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-workflows-v1.18.2...google-cloud-workflows-v1.19.0) (2025-08-07)
+
+
+### Features
+
+* add crypto key config to Workflow ([036658f](https://github.com/chingor13/google-cloud-python/commit/036658f6562449b5f11c0e8168e3cea07ce359c8))
+* add ExecutionHistoryLevel enum ([036658f](https://github.com/chingor13/google-cloud-python/commit/036658f6562449b5f11c0e8168e3cea07ce359c8))
+* add ExecutionHistoryLevel to Workflow ([036658f](https://github.com/chingor13/google-cloud-python/commit/036658f6562449b5f11c0e8168e3cea07ce359c8))
+* add ListWorkflowRevisions method ([036658f](https://github.com/chingor13/google-cloud-python/commit/036658f6562449b5f11c0e8168e3cea07ce359c8))
+* add tags to Workflow ([036658f](https://github.com/chingor13/google-cloud-python/commit/036658f6562449b5f11c0e8168e3cea07ce359c8))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([4757dae](https://github.com/chingor13/google-cloud-python/commit/4757daede978618382ba46f4aa91bb9cfd9b937b))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* A comment for field `revision_id` in message `.google.cloud.workflows.v1beta.Workflow` is changed ([0868067](https://github.com/chingor13/google-cloud-python/commit/086806789b47b6ff53fa17333347eb16514dc6e1))
+* A comment for field `service_account` in message `.google.cloud.workflows.v1beta.Workflow` is changed ([0868067](https://github.com/chingor13/google-cloud-python/commit/086806789b47b6ff53fa17333347eb16514dc6e1))
+* A comment for field `source_contents` in message `.google.cloud.workflows.v1beta.Workflow` is changed ([0868067](https://github.com/chingor13/google-cloud-python/commit/086806789b47b6ff53fa17333347eb16514dc6e1))
+* Update import statement example in README ([8066d24](https://github.com/chingor13/google-cloud-python/commit/8066d24068e6d036dcf77e7abb5401a5ba3f8a63))
+* update Workflow some standard field docs ([036658f](https://github.com/chingor13/google-cloud-python/commit/036658f6562449b5f11c0e8168e3cea07ce359c8))
+
 ## [1.18.2](https://github.com/googleapis/google-cloud-python/compare/google-cloud-workflows-v1.18.1...google-cloud-workflows-v1.18.2) (2025-06-11)
 
 

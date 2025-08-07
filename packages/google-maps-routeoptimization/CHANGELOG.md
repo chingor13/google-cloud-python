@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.1.12](https://github.com/chingor13/google-cloud-python/compare/google-maps-routeoptimization-v0.1.11...google-maps-routeoptimization-v0.1.12) (2025-08-07)
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([25ced24](https://github.com/chingor13/google-cloud-python/commit/25ced2444528a1dc6a22daa32b82b844961f1b75))
+
+
+### Documentation
+
+* fix typo in README ([eeff8fb](https://github.com/chingor13/google-cloud-python/commit/eeff8fba29a11b43bb27c741ae63b1f94833d067))
+* fix typo in README ([#13701](https://github.com/chingor13/google-cloud-python/issues/13701)) ([eeff8fb](https://github.com/chingor13/google-cloud-python/commit/eeff8fba29a11b43bb27c741ae63b1f94833d067))
+* Update import statement example in README ([8066d24](https://github.com/chingor13/google-cloud-python/commit/8066d24068e6d036dcf77e7abb5401a5ba3f8a63))
+
 ## [0.1.11](https://github.com/googleapis/google-cloud-python/compare/google-maps-routeoptimization-v0.1.10...google-maps-routeoptimization-v0.1.11) (2025-06-11)
 
 

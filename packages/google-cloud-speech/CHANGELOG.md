@@ -4,6 +4,29 @@
 
 [1]: https://pypi.org/project/google-cloud-speech/#history
 
+## [2.34.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-speech-v2.33.0...google-cloud-speech-v2.34.0) (2025-08-07)
+
+
+### Features
+
+* add ALAW support to RecognitionConfig ([c970f9f](https://github.com/chingor13/google-cloud-python/commit/c970f9f158bba8af92e06dd76cf94a86165c44ca))
+* add denoiser related configuration ([c522070](https://github.com/chingor13/google-cloud-python/commit/c522070c02d2120de8772ddcd7de6e40ef64c548))
+* add new fields to CustomClass and PhraseSet.Phrase messages ([c970f9f](https://github.com/chingor13/google-cloud-python/commit/c970f9f158bba8af92e06dd76cf94a86165c44ca))
+* deprecating speaker_tag (int) for speaker_label (string) ([c970f9f](https://github.com/chingor13/google-cloud-python/commit/c970f9f158bba8af92e06dd76cf94a86165c44ca))
+* make transcript_normalization field optional ([c970f9f](https://github.com/chingor13/google-cloud-python/commit/c970f9f158bba8af92e06dd76cf94a86165c44ca))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([784a3ca](https://github.com/chingor13/google-cloud-python/commit/784a3ca7a180453320521753f5bce71de329d65c))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* miscellaneous clarifications ([c970f9f](https://github.com/chingor13/google-cloud-python/commit/c970f9f158bba8af92e06dd76cf94a86165c44ca))
+* updated description of sample_rate_hertz ([c522070](https://github.com/chingor13/google-cloud-python/commit/c522070c02d2120de8772ddcd7de6e40ef64c548))
+
 ## [2.33.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-speech-v2.32.0...google-cloud-speech-v2.33.0) (2025-06-11)
 
 

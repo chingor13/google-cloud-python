@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.16](https://github.com/chingor13/google-cloud-python/compare/google-cloud-migrationcenter-v0.1.15...google-cloud-migrationcenter-v0.1.16) (2025-08-07)
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([c8bbf32](https://github.com/chingor13/google-cloud-python/commit/c8bbf32606e790b559b261bf96700c76b6e2bfce))
+
+
+### Documentation
+
+* Update import statement example in README ([868b006](https://github.com/chingor13/google-cloud-python/commit/868b0069baf1a4bf6705986e0b6885419b35cdcc))
+
 ## [0.1.15](https://github.com/googleapis/google-cloud-python/compare/google-cloud-migrationcenter-v0.1.14...google-cloud-migrationcenter-v0.1.15) (2025-06-11)
 
 

@@ -1,6 +1,32 @@
 # Changelog
 
 
+## [1.43.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-dialogflow-cx-v1.42.0...google-cloud-dialogflow-cx-v1.43.0) (2025-08-07)
+
+
+### Features
+
+* added support for document_processing_mode ([3609c90](https://github.com/chingor13/google-cloud-python/commit/3609c907cf4c03bf08418de150c84c32da9dae1e))
+* Change client_secret in OAuthConfig from required to optional ([3609c90](https://github.com/chingor13/google-cloud-python/commit/3609c907cf4c03bf08418de150c84c32da9dae1e))
+* exposed Zone Separation & Zone Isolation status of an agent ([3609c90](https://github.com/chingor13/google-cloud-python/commit/3609c907cf4c03bf08418de150c84c32da9dae1e))
+* **v3:** Add support for generator settings on fulfillment ([#14054](https://github.com/chingor13/google-cloud-python/issues/14054)) ([806bd71](https://github.com/chingor13/google-cloud-python/commit/806bd717a84957789c0596a9ac4de32fdd38fbb3))
+
+
+### Bug Fixes
+
+* [google-cloud-dialogflow-cx] Allow Protobuf 6.x ([3609c90](https://github.com/chingor13/google-cloud-python/commit/3609c907cf4c03bf08418de150c84c32da9dae1e))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* [google-cloud-dialogflow-cx] A comment for field `name` in message `.google.cloud.dialogflow.cx.v3beta1.Tool` is changed ([3609c90](https://github.com/chingor13/google-cloud-python/commit/3609c907cf4c03bf08418de150c84c32da9dae1e))
+* A comment for field `cert` in message `.google.cloud.dialogflow.cx.v3beta1.Tool` is changed ([3609c90](https://github.com/chingor13/google-cloud-python/commit/3609c907cf4c03bf08418de150c84c32da9dae1e))
+* A comment for field `client_secret` in message `.[google.cloud.dialogflow.cx](https://www.google.com/url?sa=D&q=http%3A%2F%2Fgoogle.cloud.dialogflow.cx).v3.Webhook` is changed ([3609c90](https://github.com/chingor13/google-cloud-python/commit/3609c907cf4c03bf08418de150c84c32da9dae1e))
+* clarified wording around StreamingDetectIntentRequest ([3609c90](https://github.com/chingor13/google-cloud-python/commit/3609c907cf4c03bf08418de150c84c32da9dae1e))
+* clarified wording around use_timeout_based_endpointing ([3609c90](https://github.com/chingor13/google-cloud-python/commit/3609c907cf4c03bf08418de150c84c32da9dae1e))
+* Update import statement example in README ([3d5bc37](https://github.com/chingor13/google-cloud-python/commit/3d5bc3782da6b37742ae83802de8a8b6db96fe29))
+
 ## [1.42.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-dialogflow-cx-v1.41.1...google-cloud-dialogflow-cx-v1.42.0) (2025-07-04)
 
 

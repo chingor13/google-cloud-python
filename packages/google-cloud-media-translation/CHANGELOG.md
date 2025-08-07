@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.11.18](https://github.com/chingor13/google-cloud-python/compare/google-cloud-media-translation-v0.11.17...google-cloud-media-translation-v0.11.18) (2025-08-07)
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([c8bbf32](https://github.com/chingor13/google-cloud-python/commit/c8bbf32606e790b559b261bf96700c76b6e2bfce))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* Update import statement example in README ([868b006](https://github.com/chingor13/google-cloud-python/commit/868b0069baf1a4bf6705986e0b6885419b35cdcc))
+
 ## [0.11.17](https://github.com/googleapis/google-cloud-python/compare/google-cloud-media-translation-v0.11.16...google-cloud-media-translation-v0.11.17) (2025-06-11)
 
 

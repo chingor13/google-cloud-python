@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.1.16](https://github.com/chingor13/google-cloud-python/compare/google-shopping-merchant-inventories-v0.1.15...google-shopping-merchant-inventories-v0.1.16) (2025-08-07)
+
+
+### Features
+
+* [google-shopping-merchant-inventories] add inventories API client libraries for v1 ([#14172](https://github.com/chingor13/google-cloud-python/issues/14172)) ([3e038db](https://github.com/chingor13/google-cloud-python/commit/3e038db85e048e57426bde3faea86225e68c579d))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([25ced24](https://github.com/chingor13/google-cloud-python/commit/25ced2444528a1dc6a22daa32b82b844961f1b75))
+
+
+### Documentation
+
+* Update import statement example in README ([8066d24](https://github.com/chingor13/google-cloud-python/commit/8066d24068e6d036dcf77e7abb5401a5ba3f8a63))
+
 ## [0.1.15](https://github.com/googleapis/google-cloud-python/compare/google-shopping-merchant-inventories-v0.1.14...google-shopping-merchant-inventories-v0.1.15) (2025-06-11)
 
 

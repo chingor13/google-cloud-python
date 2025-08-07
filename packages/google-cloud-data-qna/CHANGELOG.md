@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.10.18](https://github.com/chingor13/google-cloud-python/compare/google-cloud-data-qna-v0.10.17...google-cloud-data-qna-v0.10.18) (2025-08-07)
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([feb5353](https://github.com/chingor13/google-cloud-python/commit/feb53532240bb70a94b359b519f0f41f95875a33))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* Update import statement example in README ([3d5bc37](https://github.com/chingor13/google-cloud-python/commit/3d5bc3782da6b37742ae83802de8a8b6db96fe29))
+
 ## [0.10.17](https://github.com/googleapis/google-cloud-python/compare/google-cloud-data-qna-v0.10.16...google-cloud-data-qna-v0.10.17) (2025-06-11)
 
 

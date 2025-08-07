@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.23.3](https://github.com/chingor13/google-cloud-python/compare/google-cloud-tpu-v1.23.2...google-cloud-tpu-v1.23.3) (2025-08-07)
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([4757dae](https://github.com/chingor13/google-cloud-python/commit/4757daede978618382ba46f4aa91bb9cfd9b937b))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* Update import statement example in README ([0131a33](https://github.com/chingor13/google-cloud-python/commit/0131a33582f84d9be5ecb1c0ef8b56aa3d9e9cf0))
+
 ## [1.23.2](https://github.com/googleapis/google-cloud-python/compare/google-cloud-tpu-v1.23.1...google-cloud-tpu-v1.23.2) (2025-06-11)
 
 

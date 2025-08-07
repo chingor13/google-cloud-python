@@ -1,5 +1,42 @@
 # Changelog
 
+## [0.3.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-modelarmor-v0.2.7...google-cloud-modelarmor-v0.3.0) (2025-08-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* [google-cloud-modelarmor] Make enable_floor_setting_enforcement field optional
+
+### Features
+
+* [google-cloud-modelarmor] Make enable_floor_setting_enforcement field optional ([5666f57](https://github.com/chingor13/google-cloud-python/commit/5666f57ec39204adf97327be5c9c7a8131511cc8))
+* Add MultiLingual Support for Sanitize APIs ([02d876c](https://github.com/chingor13/google-cloud-python/commit/02d876cdaa089818f34c286a5cb01b6cde3d8ad7))
+* Add SDP info types in SdpDeidentify results ([5666f57](https://github.com/chingor13/google-cloud-python/commit/5666f57ec39204adf97327be5c9c7a8131511cc8))
+* Add support for EnforcementType ([5324195](https://github.com/chingor13/google-cloud-python/commit/5324195e74df117c50f3e615127f45b33967c192))
+* add support for Model Armor v1beta API ([39f9ce6](https://github.com/chingor13/google-cloud-python/commit/39f9ce66be729031d457e9799c3f3e18aa0a1f95))
+* add`ignore_partial_invocation_failures` to message `SanitizationMetadata` ([70701c3](https://github.com/chingor13/google-cloud-python/commit/70701c37f1a9f1b439b7c7bf886ddccc030856ef))
+* MultiLanguage Detection in Model Armor Floor Setting ([30452f1](https://github.com/chingor13/google-cloud-python/commit/30452f1ce7b3fbaffa9845ff46965ceb90a508d7))
+* MultiLanguage Detection in Model Armor Floor Setting ([30452f1](https://github.com/chingor13/google-cloud-python/commit/30452f1ce7b3fbaffa9845ff46965ceb90a508d7))
+* MultiLanguage Detection in Model Armor Floor Setting ([5324195](https://github.com/chingor13/google-cloud-python/commit/5324195e74df117c50f3e615127f45b33967c192))
+* Support added for `TXT` and `CSV` files ([02d876c](https://github.com/chingor13/google-cloud-python/commit/02d876cdaa089818f34c286a5cb01b6cde3d8ad7))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([c8bbf32](https://github.com/chingor13/google-cloud-python/commit/c8bbf32606e790b559b261bf96700c76b6e2bfce))
+
+
+### Documentation
+
+* [google-cloud-modelarmor] fix monitored resources documentation ([#13815](https://github.com/chingor13/google-cloud-python/issues/13815)) ([92d823f](https://github.com/chingor13/google-cloud-python/commit/92d823ff4d81988fcd3acf134ecb482e280cd229))
+* A comment for field `deidentify_template` in message `.google.cloud.modelarmor.v1.SdpAdvancedConfig` is changed ([5666f57](https://github.com/chingor13/google-cloud-python/commit/5666f57ec39204adf97327be5c9c7a8131511cc8))
+* A comment for field `inspect_template` in message `.google.cloud.modelarmor.v1.SdpAdvancedConfig` is changed ([5666f57](https://github.com/chingor13/google-cloud-python/commit/5666f57ec39204adf97327be5c9c7a8131511cc8))
+* fix comment formatting ([5324195](https://github.com/chingor13/google-cloud-python/commit/5324195e74df117c50f3e615127f45b33967c192))
+* fixed the documentation for DetectionConfidenceLevel ([70701c3](https://github.com/chingor13/google-cloud-python/commit/70701c37f1a9f1b439b7c7bf886ddccc030856ef))
+* group Security Command Center packages together on cloud.google.com ([#13715](https://github.com/chingor13/google-cloud-python/issues/13715)) ([3ce0eda](https://github.com/chingor13/google-cloud-python/commit/3ce0eda3fe7b86acf2e67102077c803bf743f613)), closes [#13714](https://github.com/chingor13/google-cloud-python/issues/13714)
+* Update import statement example in README ([868b006](https://github.com/chingor13/google-cloud-python/commit/868b0069baf1a4bf6705986e0b6885419b35cdcc))
+* Updated docs for Multi Language Detection Metadata ([02d876c](https://github.com/chingor13/google-cloud-python/commit/02d876cdaa089818f34c286a5cb01b6cde3d8ad7))
+
 ## [0.2.7](https://github.com/googleapis/google-cloud-python/compare/google-cloud-modelarmor-v0.2.6...google-cloud-modelarmor-v0.2.7) (2025-07-23)
 
 

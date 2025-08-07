@@ -1,5 +1,34 @@
 # Changelog
 
+## [0.1.20](https://github.com/chingor13/google-cloud-python/compare/google-cloud-config-v0.1.19...google-cloud-config-v0.1.20) (2025-08-07)
+
+
+### Features
+
+* add a FooBar API ([2f16fa5](https://github.com/chingor13/google-cloud-python/commit/2f16fa5610250d05ecc605862e2f806b94593814))
+* add the VeoTuningSpec ([2f16fa5](https://github.com/chingor13/google-cloud-python/commit/2f16fa5610250d05ecc605862e2f806b94593814))
+* added resource change and drift details for the preview ([f5cd663](https://github.com/chingor13/google-cloud-python/commit/f5cd663a11af7ca0bd6b03dfff1a258401c78b0a))
+* Remove private preview label from Model Armor protos ([2f16fa5](https://github.com/chingor13/google-cloud-python/commit/2f16fa5610250d05ecc605862e2f806b94593814))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([1e43e75](https://github.com/chingor13/google-cloud-python/commit/1e43e75e99445373785b11381e0e859fa14bb485))
+
+
+### Documentation
+
+* A comment for field `annotations` in message `.google.cloud.config.v1.Preview` is changed ([f5cd663](https://github.com/chingor13/google-cloud-python/commit/f5cd663a11af7ca0bd6b03dfff1a258401c78b0a))
+* A comment for field `error` in message `.google.cloud.config.v1.TerraformError` is changed ([f5cd663](https://github.com/chingor13/google-cloud-python/commit/f5cd663a11af7ca0bd6b03dfff1a258401c78b0a))
+* A comment for field `input_value` in message `.google.cloud.config.v1.TerraformVariable` is changed ([f5cd663](https://github.com/chingor13/google-cloud-python/commit/f5cd663a11af7ca0bd6b03dfff1a258401c78b0a))
+* A comment for field `input_values` in message `.google.cloud.config.v1.TerraformBlueprint` is changed ([f5cd663](https://github.com/chingor13/google-cloud-python/commit/f5cd663a11af7ca0bd6b03dfff1a258401c78b0a))
+* A comment for field `labels` in message `.google.cloud.config.v1.Deployment` is changed ([f5cd663](https://github.com/chingor13/google-cloud-python/commit/f5cd663a11af7ca0bd6b03dfff1a258401c78b0a))
+* A comment for field `name` in message `.google.cloud.config.v1.Deployment` is changed ([f5cd663](https://github.com/chingor13/google-cloud-python/commit/f5cd663a11af7ca0bd6b03dfff1a258401c78b0a))
+* A comment for field `page_size` in message `.google.cloud.config.v1.ListTerraformVersionsRequest` is changed ([f5cd663](https://github.com/chingor13/google-cloud-python/commit/f5cd663a11af7ca0bd6b03dfff1a258401c78b0a))
+* A comment for field `page_token` in message `.google.cloud.config.v1.ListTerraformVersionsRequest` is changed ([f5cd663](https://github.com/chingor13/google-cloud-python/commit/f5cd663a11af7ca0bd6b03dfff1a258401c78b0a))
+* update comments for rpc BatchCreatePullRequestComments, ResolvePullRequestComments and UnresolvePullRequestComments ([2f16fa5](https://github.com/chingor13/google-cloud-python/commit/2f16fa5610250d05ecc605862e2f806b94593814))
+* Update import statement example in README ([8697120](https://github.com/chingor13/google-cloud-python/commit/869712032803cb31d93f3b16abc2abdb14f733a4))
+
 ## [0.1.19](https://github.com/googleapis/google-cloud-python/compare/google-cloud-config-v0.1.18...google-cloud-config-v0.1.19) (2025-07-10)
 
 

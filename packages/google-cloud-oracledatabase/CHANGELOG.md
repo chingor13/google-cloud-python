@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.1.11](https://github.com/chingor13/google-cloud-python/compare/google-cloud-oracledatabase-v0.1.10...google-cloud-oracledatabase-v0.1.11) (2025-08-07)
+
+
+### Features
+
+* [google-cloud-oracledatabase] add enum value `State::NOT_APPROVED_IN_PRIVATE_MARKETPLACE` ([#13664](https://github.com/chingor13/google-cloud-python/issues/13664)) ([ba9f843](https://github.com/chingor13/google-cloud-python/commit/ba9f843957ea307b187fe2a1a7fc6b043e6bd6c0))
+* [google-cloud-oracledatabase] add new AutonomousDatabase RPCs ([#13752](https://github.com/chingor13/google-cloud-python/issues/13752)) ([40b98e6](https://github.com/chingor13/google-cloud-python/commit/40b98e63c2f99f8d7b6b18cc4f3bad82298d15c7))
+* [google-cloud-oracledatabase] re-enable gRPC support ([#13851](https://github.com/chingor13/google-cloud-python/issues/13851)) ([ffa6af9](https://github.com/chingor13/google-cloud-python/commit/ffa6af9d8acaa04ea7abc143a0138679dd423d8a))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([c8bbf32](https://github.com/chingor13/google-cloud-python/commit/c8bbf32606e790b559b261bf96700c76b6e2bfce))
+
+
+### Documentation
+
+* [google-cloud-oracledatabase] the network and cidr fields of AutonomousDatabase are now marked optional ([#13699](https://github.com/chingor13/google-cloud-python/issues/13699)) ([eead40b](https://github.com/chingor13/google-cloud-python/commit/eead40b9752768e392b1d0f8aa3485b73b34d190))
+* Update import statement example in README ([dfc2cd6](https://github.com/chingor13/google-cloud-python/commit/dfc2cd6be6422baa45dcebc5ff6e7fc846bf5c7d))
+
 ## [0.1.10](https://github.com/googleapis/google-cloud-python/compare/google-cloud-oracledatabase-v0.1.9...google-cloud-oracledatabase-v0.1.10) (2025-04-29)
 
 

@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.2.14](https://github.com/chingor13/google-cloud-python/compare/google-maps-fleetengine-delivery-v0.2.13...google-maps-fleetengine-delivery-v0.2.14) (2025-08-07)
+
+
+### Features
+
+* [google-maps-fleetengine-delivery] add ability to specify trip attributes to Trip and deprecate Trip.remaining_waypoints_version ([#14071](https://github.com/chingor13/google-cloud-python/issues/14071)) ([5430901](https://github.com/chingor13/google-cloud-python/commit/54309016fb30031824033754687a515891c71697))
+* [google-maps-fleetengine-delivery] Added Fleet Engine Delete APIs ([a2c1c9a](https://github.com/chingor13/google-cloud-python/commit/a2c1c9aedc2e363df88f7b8b6e8e7a2ea6856365))
+* [google-maps-fleetengine-delivery] Added Fleet Engine Delete APIs ([#13568](https://github.com/chingor13/google-cloud-python/issues/13568)) ([a2c1c9a](https://github.com/chingor13/google-cloud-python/commit/a2c1c9aedc2e363df88f7b8b6e8e7a2ea6856365))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([25ced24](https://github.com/chingor13/google-cloud-python/commit/25ced2444528a1dc6a22daa32b82b844961f1b75))
+
+
+### Documentation
+
+* Update import statement example in README ([8066d24](https://github.com/chingor13/google-cloud-python/commit/8066d24068e6d036dcf77e7abb5401a5ba3f8a63))
+
 ## [0.2.13](https://github.com/googleapis/google-cloud-python/compare/google-maps-fleetengine-delivery-v0.2.12...google-maps-fleetengine-delivery-v0.2.13) (2025-07-10)
 
 

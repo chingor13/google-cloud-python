@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.6.17](https://github.com/chingor13/google-cloud-python/compare/google-cloud-bigquery-datapolicies-v0.6.16...google-cloud-bigquery-datapolicies-v0.6.17) (2025-08-07)
+
+
+### Features
+
+* Add client libraries for V2 Data Policy api ([51f86b0](https://github.com/chingor13/google-cloud-python/commit/51f86b01827ecf35c5b76bbafe4d9d73083c29d5))
+* Release v2beta1 version containing Data Policy on Column ([51f86b0](https://github.com/chingor13/google-cloud-python/commit/51f86b01827ecf35c5b76bbafe4d9d73083c29d5))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([3a85796](https://github.com/chingor13/google-cloud-python/commit/3a85796774ebf728cbc9e82dc536316530ac78c1))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* Update import statement example in README ([eea9e6f](https://github.com/chingor13/google-cloud-python/commit/eea9e6f798406fec17a17dfd71e40fbeea42cf6a))
+
 ## [0.6.16](https://github.com/googleapis/google-cloud-python/compare/google-cloud-bigquery-datapolicies-v0.6.15...google-cloud-bigquery-datapolicies-v0.6.16) (2025-07-23)
 
 

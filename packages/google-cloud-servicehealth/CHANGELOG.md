@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.13](https://github.com/chingor13/google-cloud-python/compare/google-cloud-servicehealth-v0.1.12...google-cloud-servicehealth-v0.1.13) (2025-08-07)
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([784a3ca](https://github.com/chingor13/google-cloud-python/commit/784a3ca7a180453320521753f5bce71de329d65c))
+
 ## [0.1.12](https://github.com/googleapis/google-cloud-python/compare/google-cloud-servicehealth-v0.1.11...google-cloud-servicehealth-v0.1.12) (2025-03-15)
 
 

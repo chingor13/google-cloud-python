@@ -1,5 +1,30 @@
 # Changelog
 
+## [0.1.13](https://github.com/chingor13/google-cloud-python/compare/google-cloud-managedkafka-v0.1.12...google-cloud-managedkafka-v0.1.13) (2025-08-07)
+
+
+### Features
+
+* [google-cloud-managedkafka] add Managed Kafka ACL API ([#13939](https://github.com/chingor13/google-cloud-python/issues/13939)) ([0e1d6b0](https://github.com/chingor13/google-cloud-python/commit/0e1d6b09c6b901f137665a73ddc0a34d46d807ab))
+* [google-cloud-managedkafka] add Managed Kafka Connect API ([887357d](https://github.com/chingor13/google-cloud-python/commit/887357da2ede1d41f14258fc44275f5f592f2478))
+* Add Managed Kafka Connect API ([#13677](https://github.com/chingor13/google-cloud-python/issues/13677)) ([887357d](https://github.com/chingor13/google-cloud-python/commit/887357da2ede1d41f14258fc44275f5f592f2478))
+* update libraries and clients for Managed Kafka ([feb3366](https://github.com/chingor13/google-cloud-python/commit/feb3366d4b5c7263210d6513854535bec6de8422))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([c8bbf32](https://github.com/chingor13/google-cloud-python/commit/c8bbf32606e790b559b261bf96700c76b6e2bfce))
+* An existing google.api.http annotation `http_uri` is changed for method `DeleteConsumerGroup` in service `ManagedKafka` ([6a10ce5](https://github.com/chingor13/google-cloud-python/commit/6a10ce547d22f48b7e95dc7dd0bad06f62aae67d))
+* An existing google.api.http annotation `http_uri` is changed for method `UpdateConsumerGroup` in service `ManagedKafka` ([6a10ce5](https://github.com/chingor13/google-cloud-python/commit/6a10ce547d22f48b7e95dc7dd0bad06f62aae67d))
+* An existing google.api.http annotation http_uri is changed for method `GetConsumerGroup` in service `ManagedKafka` ([6a10ce5](https://github.com/chingor13/google-cloud-python/commit/6a10ce547d22f48b7e95dc7dd0bad06f62aae67d))
+
+
+### Documentation
+
+* [google-cloud-managedkafka] A comment for message `TaskRetryPolicy` is changed ([#13858](https://github.com/chingor13/google-cloud-python/issues/13858)) ([5ac97c4](https://github.com/chingor13/google-cloud-python/commit/5ac97c4e21a43018cb314008da4efb1f69d7501e))
+* A comment for field `subnet` in message `.google.cloud.managedkafka.v1.NetworkConfig` is changed ([6a10ce5](https://github.com/chingor13/google-cloud-python/commit/6a10ce547d22f48b7e95dc7dd0bad06f62aae67d))
+* Update import statement example in README ([868b006](https://github.com/chingor13/google-cloud-python/commit/868b0069baf1a4bf6705986e0b6885419b35cdcc))
+
 ## [0.1.12](https://github.com/googleapis/google-cloud-python/compare/google-cloud-managedkafka-v0.1.11...google-cloud-managedkafka-v0.1.12) (2025-07-10)
 
 

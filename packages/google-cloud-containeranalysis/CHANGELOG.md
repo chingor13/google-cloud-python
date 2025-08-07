@@ -1,5 +1,24 @@
 # Changelog
 
+## [2.19.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-containeranalysis-v2.18.1...google-cloud-containeranalysis-v2.19.0) (2025-08-07)
+
+
+### Features
+
+* add ExportSBOM API method for v1 ([19c7d9c](https://github.com/chingor13/google-cloud-python/commit/19c7d9c4fba0e362165917a7aed0eebc7f17ff12))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([1e43e75](https://github.com/chingor13/google-cloud-python/commit/1e43e75e99445373785b11381e0e859fa14bb485))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* Minor formatting changes to proto headers ([19c7d9c](https://github.com/chingor13/google-cloud-python/commit/19c7d9c4fba0e362165917a7aed0eebc7f17ff12))
+* Update import statement example in README ([8697120](https://github.com/chingor13/google-cloud-python/commit/869712032803cb31d93f3b16abc2abdb14f733a4))
+
 ## [2.18.1](https://github.com/googleapis/google-cloud-python/compare/google-cloud-containeranalysis-v2.18.0...google-cloud-containeranalysis-v2.18.1) (2025-06-11)
 
 

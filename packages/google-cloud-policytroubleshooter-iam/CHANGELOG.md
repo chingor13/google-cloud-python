@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.14](https://github.com/chingor13/google-cloud-python/compare/google-cloud-policytroubleshooter-iam-v0.1.13...google-cloud-policytroubleshooter-iam-v0.1.14) (2025-08-07)
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([7295cbb](https://github.com/chingor13/google-cloud-python/commit/7295cbb7c3122eeff1042c3c543bfc9b8b3ca913))
+
+
+### Documentation
+
+* Update import statement example in README ([dfc2cd6](https://github.com/chingor13/google-cloud-python/commit/dfc2cd6be6422baa45dcebc5ff6e7fc846bf5c7d))
+
 ## [0.1.13](https://github.com/googleapis/google-cloud-python/compare/google-cloud-policytroubleshooter-iam-v0.1.12...google-cloud-policytroubleshooter-iam-v0.1.13) (2025-06-11)
 
 

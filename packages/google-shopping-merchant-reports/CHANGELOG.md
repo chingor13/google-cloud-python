@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.1.17](https://github.com/chingor13/google-cloud-python/compare/google-shopping-merchant-reports-v0.1.16...google-shopping-merchant-reports-v0.1.17) (2025-08-07)
+
+
+### Features
+
+* [google-shopping-merchant-reports] Add additional YouTube report fields to Merchant reports endpoint ([#14166](https://github.com/chingor13/google-cloud-python/issues/14166)) ([b5678de](https://github.com/chingor13/google-cloud-python/commit/b5678de0d3f2306361f5e758fb1722582a6634b5))
+* [google-shopping-merchant-reports]Add v1alpha version to Merchant reports endpoint ([#14053](https://github.com/chingor13/google-cloud-python/issues/14053)) ([473cbaf](https://github.com/chingor13/google-cloud-python/commit/473cbaf8ee1a2c40c3de7f8f60bc6cdd14449267))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([36e8ba1](https://github.com/chingor13/google-cloud-python/commit/36e8ba12eac92dd221ac3ddf1061da3845135791))
+
+
+### Documentation
+
+* Update import statement example in README ([4f0a027](https://github.com/chingor13/google-cloud-python/commit/4f0a0270b494d47e80373b87e7668283dbbceec7))
+
 ## [0.1.16](https://github.com/googleapis/google-cloud-python/compare/google-shopping-merchant-reports-v0.1.15...google-shopping-merchant-reports-v0.1.16) (2025-07-04)
 
 

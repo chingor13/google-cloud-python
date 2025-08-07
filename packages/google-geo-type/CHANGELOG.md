@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.14](https://github.com/chingor13/google-cloud-python/compare/google-geo-type-v0.3.13...google-geo-type-v0.3.14) (2025-08-07)
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([25ced24](https://github.com/chingor13/google-cloud-python/commit/25ced2444528a1dc6a22daa32b82b844961f1b75))
+
+
+### Documentation
+
+* Update import statement example in README ([8066d24](https://github.com/chingor13/google-cloud-python/commit/8066d24068e6d036dcf77e7abb5401a5ba3f8a63))
+
 ## [0.3.13](https://github.com/googleapis/google-cloud-python/compare/google-geo-type-v0.3.12...google-geo-type-v0.3.13) (2025-06-11)
 
 

@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.2.8](https://github.com/chingor13/google-cloud-python/compare/google-cloud-cloudcontrolspartner-v0.2.7...google-cloud-cloudcontrolspartner-v0.2.8) (2025-08-07)
+
+
+### Features
+
+* A new field `organization_domain` is added to message `Customer` ([d4fc92b](https://github.com/chingor13/google-cloud-python/commit/d4fc92be46fffb329fc05d463ee039321b23c432))
+* Enable partners to create, update and delete their customers ([d4fc92b](https://github.com/chingor13/google-cloud-python/commit/d4fc92be46fffb329fc05d463ee039321b23c432))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([1e43e75](https://github.com/chingor13/google-cloud-python/commit/1e43e75e99445373785b11381e0e859fa14bb485))
+
+
+### Documentation
+
+* Mark the enum value `EkmSolution.VIRTRU` as deprecated ([d4fc92b](https://github.com/chingor13/google-cloud-python/commit/d4fc92be46fffb329fc05d463ee039321b23c432))
+* Update import statement example in README ([8697120](https://github.com/chingor13/google-cloud-python/commit/869712032803cb31d93f3b16abc2abdb14f733a4))
+
 ## [0.2.7](https://github.com/googleapis/google-cloud-python/compare/google-cloud-cloudcontrolspartner-v0.2.6...google-cloud-cloudcontrolspartner-v0.2.7) (2025-05-08)
 
 

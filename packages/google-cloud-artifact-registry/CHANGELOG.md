@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.17.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-artifact-registry-v1.16.1...google-cloud-artifact-registry-v1.17.0) (2025-08-07)
+
+
+### Features
+
+* add the GoModule and KfpArtifact resources ([33b1d93](https://github.com/chingor13/google-cloud-python/commit/33b1d93d262266a274cf0ad3b822fd61d260406d))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([3a85796](https://github.com/chingor13/google-cloud-python/commit/3a85796774ebf728cbc9e82dc536316530ac78c1))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* remove the restriction of the maximum numbers of versions that can be deleted in one BatchDeleteVersions call ([33b1d93](https://github.com/chingor13/google-cloud-python/commit/33b1d93d262266a274cf0ad3b822fd61d260406d))
+* Update import statement example in README ([eea9e6f](https://github.com/chingor13/google-cloud-python/commit/eea9e6f798406fec17a17dfd71e40fbeea42cf6a))
+
 ## [1.16.1](https://github.com/googleapis/google-cloud-python/compare/google-cloud-artifact-registry-v1.16.0...google-cloud-artifact-registry-v1.16.1) (2025-06-11)
 
 

@@ -1,5 +1,32 @@
 # Changelog
 
+## [1.34.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-compute-v1.33.0...google-cloud-compute-v1.34.0) (2025-08-07)
+
+
+### Features
+
+* [google-cloud-compute] Update Compute Engine API to revision ([9be352b](https://github.com/chingor13/google-cloud-python/commit/9be352b08daebce854628107672b62bf94893c4f))
+* [google-cloud-compute] Update Compute Engine API to revision 20250302 ([#987](https://github.com/chingor13/google-cloud-python/issues/987)) ([#13656](https://github.com/chingor13/google-cloud-python/issues/13656)) ([8586a8f](https://github.com/chingor13/google-cloud-python/commit/8586a8fcc6cbe7a5cc18d3e30ae2a8914a2c61b3))
+* [google-cloud-compute] Update Compute Engine API to revision 20250320 ([#13710](https://github.com/chingor13/google-cloud-python/issues/13710)) ([da0e811](https://github.com/chingor13/google-cloud-python/commit/da0e81122069ace8048471d9fffb6a1203574b36))
+* [google-cloud-compute] Update Compute Engine API to revision 20250415 ([#13800](https://github.com/chingor13/google-cloud-python/issues/13800)) ([ae6a7c9](https://github.com/chingor13/google-cloud-python/commit/ae6a7c9c7e6bf014db6347d6d6f0ad15183b7f9a))
+* [google-cloud-compute] Update Compute Engine v1 API to revision 20250601 ([#13970](https://github.com/chingor13/google-cloud-python/issues/13970)) ([8083640](https://github.com/chingor13/google-cloud-python/commit/808364041835ed14e55839cfb33325c9d1cb1f15))
+* [google-cloud-compute] Update Compute Engine v1 API to revision 20250708 ([#1073](https://github.com/chingor13/google-cloud-python/issues/1073)) ([#14107](https://github.com/chingor13/google-cloud-python/issues/14107)) ([723ac5d](https://github.com/chingor13/google-cloud-python/commit/723ac5deb793fa180bacb52841ff73893b58076e))
+* [google-cloud-compute] Update Compute Engine v1 API to revision 20250717 ([#1074](https://github.com/chingor13/google-cloud-python/issues/1074)) ([#14169](https://github.com/chingor13/google-cloud-python/issues/14169)) ([0c26f13](https://github.com/chingor13/google-cloud-python/commit/0c26f13efca3b91fc1981f3cab67d8c9305ca3a9))
+* Update Compute Engine API to revision 20250302 ([#13678](https://github.com/chingor13/google-cloud-python/issues/13678)) ([9be352b](https://github.com/chingor13/google-cloud-python/commit/9be352b08daebce854628107672b62bf94893c4f))
+* Update Compute Engine v1 API to revision 20250511 ([#1047](https://github.com/chingor13/google-cloud-python/issues/1047)) ([8083640](https://github.com/chingor13/google-cloud-python/commit/808364041835ed14e55839cfb33325c9d1cb1f15))
+* Update Compute Engine v1 API to revision 20250626 ([3ad8819](https://github.com/chingor13/google-cloud-python/commit/3ad8819a1967ba00374e6be26062d5c7e94200c8))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([1e43e75](https://github.com/chingor13/google-cloud-python/commit/1e43e75e99445373785b11381e0e859fa14bb485))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* Update import statement example in README ([8697120](https://github.com/chingor13/google-cloud-python/commit/869712032803cb31d93f3b16abc2abdb14f733a4))
+
 ## [1.33.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-compute-v1.32.0...google-cloud-compute-v1.33.0) (2025-07-16)
 
 

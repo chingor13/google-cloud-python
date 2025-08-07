@@ -1,5 +1,29 @@
 # Changelog
 
+## [0.4.20](https://github.com/chingor13/google-cloud-python/compare/google-cloud-bigquery-analyticshub-v0.4.19...google-cloud-bigquery-analyticshub-v0.4.20) (2025-08-07)
+
+
+### Features
+
+* [google-cloud-bigquery-analyticshub] Support new feature Sharing Cloud Pubsub Streams via AH (GA) and Subscriber Email logging feature ([#13713](https://github.com/chingor13/google-cloud-python/issues/13713)) ([f6a55e3](https://github.com/chingor13/google-cloud-python/commit/f6a55e35fcfd5f58d3268fb3f7a46ffd761c7db3))
+* Add support for Analytics Hub & Marketplace Integration ([d875d05](https://github.com/chingor13/google-cloud-python/commit/d875d053acb170e1491dd774c93506b339524d45))
+* Adding allow_only_metadata_sharing to Listing resource ([d875d05](https://github.com/chingor13/google-cloud-python/commit/d875d053acb170e1491dd774c93506b339524d45))
+* Adding CommercialInfo message to the Listing and Subscription resources ([d875d05](https://github.com/chingor13/google-cloud-python/commit/d875d053acb170e1491dd774c93506b339524d45))
+* Adding delete_commercial and revoke_commercial to DeleteListingRequest and RevokeSubscriptionRequest ([d875d05](https://github.com/chingor13/google-cloud-python/commit/d875d053acb170e1491dd774c93506b339524d45))
+* Adding DestinationDataset to the Subscription resource ([d875d05](https://github.com/chingor13/google-cloud-python/commit/d875d053acb170e1491dd774c93506b339524d45))
+* Adding routine field to the SharedResource message ([d875d05](https://github.com/chingor13/google-cloud-python/commit/d875d053acb170e1491dd774c93506b339524d45))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([3a85796](https://github.com/chingor13/google-cloud-python/commit/3a85796774ebf728cbc9e82dc536316530ac78c1))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* Update import statement example in README ([eea9e6f](https://github.com/chingor13/google-cloud-python/commit/eea9e6f798406fec17a17dfd71e40fbeea42cf6a))
+
 ## [0.4.19](https://github.com/googleapis/google-cloud-python/compare/google-cloud-bigquery-analyticshub-v0.4.18...google-cloud-bigquery-analyticshub-v0.4.19) (2025-05-15)
 
 

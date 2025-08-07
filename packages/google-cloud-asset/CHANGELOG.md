@@ -4,6 +4,35 @@
 
 [1]: https://pypi.org/project/google-cloud-asset/#history
 
+## [3.31.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-asset-v3.30.1...google-cloud-asset-v3.31.0) (2025-08-07)
+
+
+### Features
+
+* A new field `enrichments` is added to message `.google.cloud.asset.v1.ResourceSearchResult` ([b464b68](https://github.com/chingor13/google-cloud-python/commit/b464b68f31f1c54ec98881262a903de85f21cb8c))
+* A new message `AssetEnrichment` is added ([b464b68](https://github.com/chingor13/google-cloud-python/commit/b464b68f31f1c54ec98881262a903de85f21cb8c))
+* A new message `ResourceOwners` is added ([b464b68](https://github.com/chingor13/google-cloud-python/commit/b464b68f31f1c54ec98881262a903de85f21cb8c))
+* A new value `GOVERN_TAGS` is added to enum `MethodType` ([b464b68](https://github.com/chingor13/google-cloud-python/commit/b464b68f31f1c54ec98881262a903de85f21cb8c))
+* A new value `REMOVE_GRANT` is added to enum `MethodType` ([b464b68](https://github.com/chingor13/google-cloud-python/commit/b464b68f31f1c54ec98881262a903de85f21cb8c))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([3a85796](https://github.com/chingor13/google-cloud-python/commit/3a85796774ebf728cbc9e82dc536316530ac78c1))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* A comment for field `attached_resource` in message `.google.cloud.asset.v1.EffectiveTagDetails` is changed ([b464b68](https://github.com/chingor13/google-cloud-python/commit/b464b68f31f1c54ec98881262a903de85f21cb8c))
+* A comment for field `consolidated_policy` in message `.google.cloud.asset.v1.AnalyzeOrgPoliciesResponse` is changed ([b464b68](https://github.com/chingor13/google-cloud-python/commit/b464b68f31f1c54ec98881262a903de85f21cb8c))
+* A comment for field `policy_bundle` in message `.google.cloud.asset.v1.AnalyzeOrgPoliciesResponse` is changed ([b464b68](https://github.com/chingor13/google-cloud-python/commit/b464b68f31f1c54ec98881262a903de85f21cb8c))
+* A comment for field `policy_bundle` in message `.google.cloud.asset.v1.AnalyzeOrgPolicyGovernedAssetsResponse` is changed ([b464b68](https://github.com/chingor13/google-cloud-python/commit/b464b68f31f1c54ec98881262a903de85f21cb8c))
+* A comment for field `policy_bundle` in message `.google.cloud.asset.v1.AnalyzeOrgPolicyGovernedContainersResponse` is changed ([b464b68](https://github.com/chingor13/google-cloud-python/commit/b464b68f31f1c54ec98881262a903de85f21cb8c))
+* A comment for field `service_account_impersonation_analysis` in message `.google.cloud.asset.v1.AnalyzeIamPolicyResponse` is changed ([b464b68](https://github.com/chingor13/google-cloud-python/commit/b464b68f31f1c54ec98881262a903de85f21cb8c))
+* fix typos in documentation ([deb14f3](https://github.com/chingor13/google-cloud-python/commit/deb14f34f821ab238692e0597fd0f7b79833fc26))
+* Update import statement example in README ([eea9e6f](https://github.com/chingor13/google-cloud-python/commit/eea9e6f798406fec17a17dfd71e40fbeea42cf6a))
+
 ## [3.30.1](https://github.com/googleapis/google-cloud-python/compare/google-cloud-asset-v3.30.0...google-cloud-asset-v3.30.1) (2025-05-08)
 
 

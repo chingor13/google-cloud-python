@@ -1,5 +1,30 @@
 # Changelog
 
+## [0.1.19](https://github.com/chingor13/google-cloud-python/compare/google-cloud-support-v0.1.18...google-cloud-support-v0.1.19) (2025-08-07)
+
+
+### Features
+
+* Annotate `Comment.plain_text_body` as deprecated (it was already deprecated, but now we're adding the annotation for it) ([85418b0](https://github.com/chingor13/google-cloud-python/commit/85418b093f0d5e06e809cbf52e63a46df8aa087c))
+* Deprecate the `Actor.email` field and add `username` to replace it ([85418b0](https://github.com/chingor13/google-cloud-python/commit/85418b093f0d5e06e809cbf52e63a46df8aa087c))
+* KMS key resource_definition `[cloudkms.googleapis.com/CryptoKey](https://www.google.com/url?sa=D&q=http%3A%2F%2Fcloudkms.googleapis.com%2FCryptoKey) is added ([8494eab](https://github.com/chingor13/google-cloud-python/commit/8494eab9d5243e3adaa6a15bd09867473c28c56c))
+* publish client libraries for CSAPI v2beta ([85418b0](https://github.com/chingor13/google-cloud-python/commit/85418b093f0d5e06e809cbf52e63a46df8aa087c))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([4757dae](https://github.com/chingor13/google-cloud-python/commit/4757daede978618382ba46f4aa91bb9cfd9b937b))
+
+
+### Documentation
+
+* [google-cloud-support] Update Cloud Support RPC comments to no longer include cURL and Python examples ([#13929](https://github.com/chingor13/google-cloud-python/issues/13929)) ([40e08b2](https://github.com/chingor13/google-cloud-python/commit/40e08b2bd92f7fbc256a6bf4c58d4b0549eb053a))
+* Annotate all names with IDENTIFIER ([948efc5](https://github.com/chingor13/google-cloud-python/commit/948efc53b02593b76a8ba587944751e2ddb85bc8))
+* Bring comments and metadata up to date ([85418b0](https://github.com/chingor13/google-cloud-python/commit/85418b093f0d5e06e809cbf52e63a46df8aa087c))
+* Remove unnecessary curl and Python documentation ([948efc5](https://github.com/chingor13/google-cloud-python/commit/948efc53b02593b76a8ba587944751e2ddb85bc8))
+* Update import statement example in README ([0131a33](https://github.com/chingor13/google-cloud-python/commit/0131a33582f84d9be5ecb1c0ef8b56aa3d9e9cf0))
+* Use backticks around `username` in documentation for `Actor.email` ([948efc5](https://github.com/chingor13/google-cloud-python/commit/948efc53b02593b76a8ba587944751e2ddb85bc8))
+
 ## [0.1.18](https://github.com/googleapis/google-cloud-python/compare/google-cloud-support-v0.1.17...google-cloud-support-v0.1.18) (2025-06-23)
 
 
