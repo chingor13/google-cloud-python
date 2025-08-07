@@ -1,6 +1,22 @@
 # Changelog
 
 
+## [0.10.20](https://github.com/chingor13/google-cloud-python/compare/google-cloud-run-v0.10.19...google-cloud-run-v0.10.20) (2025-08-07)
+
+
+### Features
+
+* add new field `term_signal` to `.google.cloud.run.v2.TaskAttemptResult` ([078e0e2](https://github.com/chingor13/google-cloud-python/commit/078e0e2ccb5f59a9c78c89d63b7e57c9d7dca9c2))
+* support GPU zonal redundancy setting for Cloud Run jobs ([078e0e2](https://github.com/chingor13/google-cloud-python/commit/078e0e2ccb5f59a9c78c89d63b7e57c9d7dca9c2))
+* support GPU zonal redundancy setting in Cloud Run services ([2f33995](https://github.com/chingor13/google-cloud-python/commit/2f33995c8f454fe9a6798aa2477bd1b0a817d1da))
+* support node selector in Cloud Run jobs for GPU setting ([2f33995](https://github.com/chingor13/google-cloud-python/commit/2f33995c8f454fe9a6798aa2477bd1b0a817d1da))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([784a3ca](https://github.com/chingor13/google-cloud-python/commit/784a3ca7a180453320521753f5bce71de329d65c))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
 ## [0.10.19](https://github.com/googleapis/google-cloud-python/compare/google-cloud-run-v0.10.18...google-cloud-run-v0.10.19) (2025-07-16)
 
 

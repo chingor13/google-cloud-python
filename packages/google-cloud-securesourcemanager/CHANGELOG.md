@@ -1,5 +1,34 @@
 # Changelog
 
+## [0.1.17](https://github.com/chingor13/google-cloud-python/compare/google-cloud-securesourcemanager-v0.1.16...google-cloud-securesourcemanager-v0.1.17) (2025-08-07)
+
+
+### Features
+
+* add a FooBar API ([2f16fa5](https://github.com/chingor13/google-cloud-python/commit/2f16fa5610250d05ecc605862e2f806b94593814))
+* add new UpdateRepository API ([1569c8d](https://github.com/chingor13/google-cloud-python/commit/1569c8d0ef4a7005416d03ec5ad0a85fe17ed8cd))
+* add support for new API resources - Issues, IssueComments, PullRequests, PullRequestComments, Blobs ([1569c8d](https://github.com/chingor13/google-cloud-python/commit/1569c8d0ef4a7005416d03ec5ad0a85fe17ed8cd))
+* add support for workforce identity federation in instance ([1569c8d](https://github.com/chingor13/google-cloud-python/commit/1569c8d0ef4a7005416d03ec5ad0a85fe17ed8cd))
+* add the VeoTuningSpec ([2f16fa5](https://github.com/chingor13/google-cloud-python/commit/2f16fa5610250d05ecc605862e2f806b94593814))
+* Remove private preview label from Model Armor protos ([2f16fa5](https://github.com/chingor13/google-cloud-python/commit/2f16fa5610250d05ecc605862e2f806b94593814))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([784a3ca](https://github.com/chingor13/google-cloud-python/commit/784a3ca7a180453320521753f5bce71de329d65c))
+
+
+### Documentation
+
+* `ca_pool` in message `.google.cloud.securesourcemanager.v1.Instance` is Optional ([1569c8d](https://github.com/chingor13/google-cloud-python/commit/1569c8d0ef4a7005416d03ec5ad0a85fe17ed8cd))
+* A comment for field `requested_cancellation` in message `.google.cloud.securesourcemanager.v1.OperationMetadata` is changed ([1569c8d](https://github.com/chingor13/google-cloud-python/commit/1569c8d0ef4a7005416d03ec5ad0a85fe17ed8cd))
+* fix typo in `BranchRule` comment ([1569c8d](https://github.com/chingor13/google-cloud-python/commit/1569c8d0ef4a7005416d03ec5ad0a85fe17ed8cd))
+* remove mention of DataPlane from `CreateRepository` endpoint ([1569c8d](https://github.com/chingor13/google-cloud-python/commit/1569c8d0ef4a7005416d03ec5ad0a85fe17ed8cd))
+* remove mention of DataPlane from `DeleteRepository` endpoint ([1569c8d](https://github.com/chingor13/google-cloud-python/commit/1569c8d0ef4a7005416d03ec5ad0a85fe17ed8cd))
+* remove mention of DataPlane from `GetRepository` endpont ([1569c8d](https://github.com/chingor13/google-cloud-python/commit/1569c8d0ef4a7005416d03ec5ad0a85fe17ed8cd))
+* remove mention of DataPlane from `ListRepositories` endpoint ([1569c8d](https://github.com/chingor13/google-cloud-python/commit/1569c8d0ef4a7005416d03ec5ad0a85fe17ed8cd))
+* update comments for rpc BatchCreatePullRequestComments, ResolvePullRequestComments and UnresolvePullRequestComments ([2f16fa5](https://github.com/chingor13/google-cloud-python/commit/2f16fa5610250d05ecc605862e2f806b94593814))
+
 ## [0.1.16](https://github.com/googleapis/google-cloud-python/compare/google-cloud-securesourcemanager-v0.1.15...google-cloud-securesourcemanager-v0.1.16) (2025-07-26)
 
 

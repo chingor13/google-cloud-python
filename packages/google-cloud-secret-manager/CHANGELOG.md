@@ -1,5 +1,23 @@
 # Changelog
 
+## [2.25.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-secret-manager-v2.24.0...google-cloud-secret-manager-v2.25.0) (2025-08-07)
+
+
+### Features
+
+* [google-cloud-secret-manager] update secret manager protos for tags ([#13976](https://github.com/chingor13/google-cloud-python/issues/13976)) ([998c300](https://github.com/chingor13/google-cloud-python/commit/998c300dfb93942baf80fe5dbb21365a84ce45c5))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([784a3ca](https://github.com/chingor13/google-cloud-python/commit/784a3ca7a180453320521753f5bce71de329d65c))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* [google-cloud-secret-manager] various documentation clarifications ([#13796](https://github.com/chingor13/google-cloud-python/issues/13796)) ([5f6227b](https://github.com/chingor13/google-cloud-python/commit/5f6227b047b07d7c032caca77554d9fa86bf7b7c))
+
 ## [2.24.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-secret-manager-v2.23.3...google-cloud-secret-manager-v2.24.0) (2025-06-05)
 
 
