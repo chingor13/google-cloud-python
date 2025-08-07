@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.1.9](https://github.com/chingor13/google-cloud-python/compare/google-maps-areainsights-v0.1.8...google-maps-areainsights-v0.1.9) (2025-08-07)
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([25ced24](https://github.com/chingor13/google-cloud-python/commit/25ced2444528a1dc6a22daa32b82b844961f1b75))
+
+
+### Documentation
+
+* [google-maps-areainsights] A comment for service `AreaInsights` is changed ([#13830](https://github.com/chingor13/google-cloud-python/issues/13830)) ([dd4a1dc](https://github.com/chingor13/google-cloud-python/commit/dd4a1dc8caa2f01f6475975eb39b08d3d3322d0e))
+* A comment for field `place` in message `.google.maps.areainsights.v1.LocationFilter` is changed ([afd8e5b](https://github.com/chingor13/google-cloud-python/commit/afd8e5bd3751669be857d7538ce10c04a9ba1ee0))
+* A comment for field `place` in message `.google.maps.areainsights.v1.PlaceInsight` is changed ([afd8e5b](https://github.com/chingor13/google-cloud-python/commit/afd8e5bd3751669be857d7538ce10c04a9ba1ee0))
+* A comment for method `ComputeInsights` in service `AreaInsights` ([dd4a1dc](https://github.com/chingor13/google-cloud-python/commit/dd4a1dc8caa2f01f6475975eb39b08d3d3322d0e))
+* A comment for service AreaInsights is changed ([dd4a1dc](https://github.com/chingor13/google-cloud-python/commit/dd4a1dc8caa2f01f6475975eb39b08d3d3322d0e))
+* clarifications of comments ([31b3cc8](https://github.com/chingor13/google-cloud-python/commit/31b3cc82071330347b4212d5192b7700672e9123))
+* sample requests rewritten as JSON ([31b3cc8](https://github.com/chingor13/google-cloud-python/commit/31b3cc82071330347b4212d5192b7700672e9123))
+* Update import statement example in README ([8066d24](https://github.com/chingor13/google-cloud-python/commit/8066d24068e6d036dcf77e7abb5401a5ba3f8a63))
+
 ## [0.1.8](https://github.com/googleapis/google-cloud-python/compare/google-maps-areainsights-v0.1.7...google-maps-areainsights-v0.1.8) (2025-04-24)
 
 
