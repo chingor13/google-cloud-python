@@ -1,5 +1,39 @@
 # Changelog
 
+## [0.13.12](https://github.com/chingor13/google-cloud-python/compare/google-cloud-discoveryengine-v0.13.11...google-cloud-discoveryengine-v0.13.12) (2025-08-07)
+
+
+### Features
+
+* [google-cloud-discoveryengine] add AssistantService ([#14133](https://github.com/chingor13/google-cloud-python/issues/14133)) ([55b9528](https://github.com/chingor13/google-cloud-python/commit/55b9528e22bbb52403d02b6316dc1b38a897755f))
+* add CMEK config service ([4b5d19b](https://github.com/chingor13/google-cloud-python/commit/4b5d19b1b6e52de1a54630b38b226f0cb301cb05))
+* add ConnectorRunErrorContext to error log ([4b5d19b](https://github.com/chingor13/google-cloud-python/commit/4b5d19b1b6e52de1a54630b38b226f0cb301cb05))
+* add custom search operators for Workspace search ([4b5d19b](https://github.com/chingor13/google-cloud-python/commit/4b5d19b1b6e52de1a54630b38b226f0cb301cb05))
+* add HealthcareFhirConfig to FHIR data store ([4b5d19b](https://github.com/chingor13/google-cloud-python/commit/4b5d19b1b6e52de1a54630b38b226f0cb301cb05))
+* add identity mapping service ([4b5d19b](https://github.com/chingor13/google-cloud-python/commit/4b5d19b1b6e52de1a54630b38b226f0cb301cb05))
+* add more indexing state for site search engine ([4b5d19b](https://github.com/chingor13/google-cloud-python/commit/4b5d19b1b6e52de1a54630b38b226f0cb301cb05))
+* add more options for layout parser config ([4b5d19b](https://github.com/chingor13/google-cloud-python/commit/4b5d19b1b6e52de1a54630b38b226f0cb301cb05))
+* add SessionService ([1a37e18](https://github.com/chingor13/google-cloud-python/commit/1a37e183ba189d92b83b180e26816e2498b9fe06))
+* add time_zone in user info ([4e8f5f3](https://github.com/chingor13/google-cloud-python/commit/4e8f5f33cc5e309dafde4495f8f69df4202f8933))
+* add user license config service ([4b5d19b](https://github.com/chingor13/google-cloud-python/commit/4b5d19b1b6e52de1a54630b38b226f0cb301cb05))
+* enable claim level score for grounding ([4b5d19b](https://github.com/chingor13/google-cloud-python/commit/4b5d19b1b6e52de1a54630b38b226f0cb301cb05))
+* move serving config update API to GA ([4e8f5f3](https://github.com/chingor13/google-cloud-python/commit/4e8f5f33cc5e309dafde4495f8f69df4202f8933))
+* support ACL data store and document ([4b5d19b](https://github.com/chingor13/google-cloud-python/commit/4b5d19b1b6e52de1a54630b38b226f0cb301cb05))
+* support media recommendation engine ([4b5d19b](https://github.com/chingor13/google-cloud-python/commit/4b5d19b1b6e52de1a54630b38b226f0cb301cb05))
+* support structured content for chunk ([4b5d19b](https://github.com/chingor13/google-cloud-python/commit/4b5d19b1b6e52de1a54630b38b226f0cb301cb05))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([feb5353](https://github.com/chingor13/google-cloud-python/commit/feb53532240bb70a94b359b519f0f41f95875a33))
+
+
+### Documentation
+
+* keep the API doc up-to-date with recent changes ([4b5d19b](https://github.com/chingor13/google-cloud-python/commit/4b5d19b1b6e52de1a54630b38b226f0cb301cb05))
+* keep the API doc up-to-date with recent changes ([4e8f5f3](https://github.com/chingor13/google-cloud-python/commit/4e8f5f33cc5e309dafde4495f8f69df4202f8933))
+* Update import statement example in README ([3d5bc37](https://github.com/chingor13/google-cloud-python/commit/3d5bc3782da6b37742ae83802de8a8b6db96fe29))
+
 ## [0.13.11](https://github.com/googleapis/google-cloud-python/compare/google-cloud-discoveryengine-v0.13.10...google-cloud-discoveryengine-v0.13.11) (2025-07-26)
 
 

@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.19.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-dataproc-metastore-v1.18.3...google-cloud-dataproc-metastore-v1.19.0) (2025-08-07)
+
+
+### Features
+
+* add a FooBar API ([2f16fa5](https://github.com/chingor13/google-cloud-python/commit/2f16fa5610250d05ecc605862e2f806b94593814))
+* add the VeoTuningSpec ([2f16fa5](https://github.com/chingor13/google-cloud-python/commit/2f16fa5610250d05ecc605862e2f806b94593814))
+* Remove private preview label from Model Armor protos ([2f16fa5](https://github.com/chingor13/google-cloud-python/commit/2f16fa5610250d05ecc605862e2f806b94593814))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([feb5353](https://github.com/chingor13/google-cloud-python/commit/feb53532240bb70a94b359b519f0f41f95875a33))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* update comments for rpc BatchCreatePullRequestComments, ResolvePullRequestComments and UnresolvePullRequestComments ([2f16fa5](https://github.com/chingor13/google-cloud-python/commit/2f16fa5610250d05ecc605862e2f806b94593814))
+* Update import statement example in README ([3d5bc37](https://github.com/chingor13/google-cloud-python/commit/3d5bc3782da6b37742ae83802de8a8b6db96fe29))
+
 ## [1.18.3](https://github.com/googleapis/google-cloud-python/compare/google-cloud-dataproc-metastore-v1.18.2...google-cloud-dataproc-metastore-v1.18.3) (2025-06-11)
 
 

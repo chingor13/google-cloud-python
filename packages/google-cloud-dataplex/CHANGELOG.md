@@ -1,5 +1,54 @@
 # Changelog
 
+## [2.12.0](https://github.com/chingor13/google-cloud-python/compare/google-cloud-dataplex-v2.11.0...google-cloud-dataplex-v2.12.0) (2025-08-07)
+
+
+### Features
+
+* [google-cloud-dataplex] Add custom BigQuery dataset location support in Auto Discovery ([#13641](https://github.com/chingor13/google-cloud-python/issues/13641)) ([90298dd](https://github.com/chingor13/google-cloud-python/commit/90298dd8ff2ab164af41848e91c789e87305f426))
+* A new field `export_result` is added to message `.google.cloud.dataplex.v1.MetadataJob` ([c46b81a](https://github.com/chingor13/google-cloud-python/commit/c46b81a930878a1f9526825be607f7d07f4c0640))
+* A new field `export_spec` is added to message `.google.cloud.dataplex.v1.MetadataJob` ([c46b81a](https://github.com/chingor13/google-cloud-python/commit/c46b81a930878a1f9526825be607f7d07f4c0640))
+* A new field semantic_search is added to message.google.cloud.dataplex.v1.SearchEntriesRequest ([47fa122](https://github.com/chingor13/google-cloud-python/commit/47fa12216d3ae440cbddbf9197ff72f237f88bd3))
+* A new message `ExportJobResult` is added ([c46b81a](https://github.com/chingor13/google-cloud-python/commit/c46b81a930878a1f9526825be607f7d07f4c0640))
+* A new message `ExportJobSpec` is added ([c46b81a](https://github.com/chingor13/google-cloud-python/commit/c46b81a930878a1f9526825be607f7d07f4c0640))
+* A new value `EXPORT` is added to enum `Type` ([c46b81a](https://github.com/chingor13/google-cloud-python/commit/c46b81a930878a1f9526825be607f7d07f4c0640))
+* Add support for REST transport ([fe3dc62](https://github.com/chingor13/google-cloud-python/commit/fe3dc623808a5c40c157bf4fe55e8dd1fac39320))
+* Removing internal visibility labels for cmek public preview ([c46b81a](https://github.com/chingor13/google-cloud-python/commit/c46b81a930878a1f9526825be607f7d07f4c0640))
+
+
+### Bug Fixes
+
+* [Many APIs] Allow Protobuf 6.x ([feb5353](https://github.com/chingor13/google-cloud-python/commit/feb53532240bb70a94b359b519f0f41f95875a33))
+* remove setup.cfg configuration for creating universal wheels ([#13659](https://github.com/chingor13/google-cloud-python/issues/13659)) ([59bfd42](https://github.com/chingor13/google-cloud-python/commit/59bfd42cf8a2eaeed696a7504890bce5aae815ce))
+
+
+### Documentation
+
+* A comment for enum `SyncMode` is changed ([6f6d015](https://github.com/chingor13/google-cloud-python/commit/6f6d015c35ae5143f14c2e808a8ca6e35716fe90))
+* A comment for enum value `EXPORT` in enum `Type` is changed ([6f6d015](https://github.com/chingor13/google-cloud-python/commit/6f6d015c35ae5143f14c2e808a8ca6e35716fe90))
+* A comment for enum value `INTERNAL_ERROR` in enum `ErrorCode` is changed ([6f6d015](https://github.com/chingor13/google-cloud-python/commit/6f6d015c35ae5143f14c2e808a8ca6e35716fe90))
+* A comment for field `aspect_types` in message `.google.cloud.dataplex.v1.MetadataJob` is changed ([6f6d015](https://github.com/chingor13/google-cloud-python/commit/6f6d015c35ae5143f14c2e808a8ca6e35716fe90))
+* A comment for field `encryption_config_id` in message `.google.cloud.dataplex.v1.CreateEncryptionConfigRequest` is changed ([6f6d015](https://github.com/chingor13/google-cloud-python/commit/6f6d015c35ae5143f14c2e808a8ca6e35716fe90))
+* A comment for field `entry_groups` in message `.google.cloud.dataplex.v1.MetadataJob` is changed ([6f6d015](https://github.com/chingor13/google-cloud-python/commit/6f6d015c35ae5143f14c2e808a8ca6e35716fe90))
+* A comment for field `entry_types` in message `.google.cloud.dataplex.v1.MetadataJob` is changed ([6f6d015](https://github.com/chingor13/google-cloud-python/commit/6f6d015c35ae5143f14c2e808a8ca6e35716fe90))
+* A comment for field `error_message` in message `.google.cloud.dataplex.v1.MetadataJob` is changed ([6f6d015](https://github.com/chingor13/google-cloud-python/commit/6f6d015c35ae5143f14c2e808a8ca6e35716fe90))
+* A comment for field `exported_entries` in message `.google.cloud.dataplex.v1.MetadataJob` is changed ([6f6d015](https://github.com/chingor13/google-cloud-python/commit/6f6d015c35ae5143f14c2e808a8ca6e35716fe90))
+* A comment for field `organization_level` in message `.google.cloud.dataplex.v1.MetadataJob` is changed ([6f6d015](https://github.com/chingor13/google-cloud-python/commit/6f6d015c35ae5143f14c2e808a8ca6e35716fe90))
+* A comment for field `output_path` in message `.google.cloud.dataplex.v1.MetadataJob` is changed ([6f6d015](https://github.com/chingor13/google-cloud-python/commit/6f6d015c35ae5143f14c2e808a8ca6e35716fe90))
+* A comment for field `projects` in message `.google.cloud.dataplex.v1.MetadataJob` is changed ([6f6d015](https://github.com/chingor13/google-cloud-python/commit/6f6d015c35ae5143f14c2e808a8ca6e35716fe90))
+* A comment for field `scan_statistics` in message `.google.cloud.dataplex.v1.DataDiscoveryResult` is changed ([6f6d015](https://github.com/chingor13/google-cloud-python/commit/6f6d015c35ae5143f14c2e808a8ca6e35716fe90))
+* A comment for field `scope` in message `.google.cloud.dataplex.v1.MetadataJob` is changed ([6f6d015](https://github.com/chingor13/google-cloud-python/commit/6f6d015c35ae5143f14c2e808a8ca6e35716fe90))
+* A comment for field `source_storage_uri` in message `.google.cloud.dataplex.v1.MetadataJob` is changed ([6f6d015](https://github.com/chingor13/google-cloud-python/commit/6f6d015c35ae5143f14c2e808a8ca6e35716fe90))
+* A comment for message `DataDiscoveryResult` is changed ([6f6d015](https://github.com/chingor13/google-cloud-python/commit/6f6d015c35ae5143f14c2e808a8ca6e35716fe90))
+* A comment for message `MetadataJob` is changed ([6f6d015](https://github.com/chingor13/google-cloud-python/commit/6f6d015c35ae5143f14c2e808a8ca6e35716fe90))
+* A comment for message `MetadataJob` is changed ([6f6d015](https://github.com/chingor13/google-cloud-python/commit/6f6d015c35ae5143f14c2e808a8ca6e35716fe90))
+* A comment for message `MetadataJob` is changed ([6f6d015](https://github.com/chingor13/google-cloud-python/commit/6f6d015c35ae5143f14c2e808a8ca6e35716fe90))
+* minor changes ([cf141a8](https://github.com/chingor13/google-cloud-python/commit/cf141a859c6c2e811f19bfe42346348c1978ebf1))
+* minor changes ([#13792](https://github.com/chingor13/google-cloud-python/issues/13792)) ([cf141a8](https://github.com/chingor13/google-cloud-python/commit/cf141a859c6c2e811f19bfe42346348c1978ebf1))
+* minor formatting changes ([c46b81a](https://github.com/chingor13/google-cloud-python/commit/c46b81a930878a1f9526825be607f7d07f4c0640))
+* Update import statement example in README ([3d5bc37](https://github.com/chingor13/google-cloud-python/commit/3d5bc3782da6b37742ae83802de8a8b6db96fe29))
+* update the Dataplex Catalog proto to remove the info about schema ([90298dd](https://github.com/chingor13/google-cloud-python/commit/90298dd8ff2ab164af41848e91c789e87305f426))
+
 ## [2.11.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-dataplex-v2.10.2...google-cloud-dataplex-v2.11.0) (2025-07-10)
 
 
